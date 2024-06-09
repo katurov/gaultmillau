@@ -44,3 +44,16 @@ To open in Organic Map or ANY suitable for KML format from mobile just click on 
 | [KORPA DELI MARKET I BISTRO](https://korpa-deli.rs) | 12.0 | 1 |
 | [SAVOCA](https://savocapicerija.rs) | 11.5 | 1 |
 | [RESTORAN KOD BRKE](https://kodbrke.rs/) | 11.0 | 1 |
+
+# The process
+
+1. Read data from G&M website
+2. Use OSM to get coordinates for addresses (we will have a lot)
+3. Save "dirty" JSON for backup
+4. Use data to generate GPKG file and transform in into KML for Google
+5. Check on Google are all poins on their places
+6. Corect some (delete, move)
+7. Check that all poins from original file found on map
+8. Correct some
+9. Creade GPKG file (two versions: plain text and HTML-able)
+10. Upload to suitable app to check
