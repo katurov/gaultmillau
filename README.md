@@ -21,10 +21,12 @@ Hard way: download file and put into your desired application
 | ---- | ---- | ------ | ------------ |
 | Gault & Millau in Beograd.gpkg | Belgrade | GPKG | QGIS |
 | Gault & Millau in Beograd - Google.kml | Belgrade | KML with HTML | Google Maps |
-| Gault & Millau in Beograd - OSM.kml | Belgrade | KML | [Organic Maps](https://github.com/organicmaps/organicmaps) |
+| [Gault & Millau in Beograd - OSM.kml](https://github.com/katurov/gaultmillau/blob/main/Gault%20%26%20Millau%20in%20Beograd%20-%20OSM.kml) | Belgrade | KML | [Organic Maps](https://github.com/organicmaps/organicmaps) |
 | Gault & Millau in NoviSad.gpkg| Novi Sad | GPKG | QGIS |
 | Gault & Millau in Novi Sad - Google.kml | Novi Sad | KML with HTML | Google Maps |
-| Gault & Millau in Novi Sad - OSM.kml | Novi Sad | KML | [Organic Maps](https://github.com/organicmaps/organicmaps) |
+| [Gault & Millau in Novi Sad - OSM.kml](https://github.com/katurov/gaultmillau/blob/main/Gault%20%26%20Millau%20in%20Novi%20Sad%20-%20OSM.kml) | Novi Sad | KML | [Organic Maps](https://github.com/organicmaps/organicmaps) |
+
+To open in Organic Map or ANY suitable for KML format from mobile just click on the file name.
 
 ## Top in Novi Sad
 | Title | Score | Toques |
