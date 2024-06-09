@@ -11,8 +11,8 @@ It isn't easy to understand which restaurant is near to you, your hotel, your ro
 | ----- | ----- | ------ |
 | [PROJECT 72 WINE&DELI](https://project72.rs/) | 15.0 | 3 |
 | [FISH&ZELENIŠ](https://www.fishizelenis.com/) | 14.5 | 2 |
-| [JASMIN A MASLINA]() | 14.0 | 2 |
-| [LE KLOK BISTRO]() | 13.5 | 2 |
+| JASMIN A MASLINA | 14.0 | 2 |
+| LE KLOK BISTRO | 13.5 | 2 |
 | [KONOBA RIBA RIBI GRIZE REP](https://www.rrgr.rs/) | 13.5 | 2 |
 | [CUBO](http://www.cubonovisad.rs) | 13.0 | 2 |
 | [PETRUS](https://petruscaffe.com/) | 12.5 | 1 |
