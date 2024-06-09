@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="NoviSad" id="NoviSad">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="Score" type="string"></SimpleField>
+	<SimpleField name="Torques" type="string"></SimpleField>
+	<SimpleField name="Link" type="string"></SimpleField>
+	<SimpleField name="Web" type="string"></SimpleField>
+	<SimpleField name="Phone" type="string"></SimpleField>
+</Schema>
+<Folder><name>NoviSad</name>
+  <Placemark>
+	<name>ŠADRVAN ROŠTILJ KOD JONUZA</name>
+	<description>This restaurant is in the heart of Novi Pazar. This is where they make the far and wide famous Pazar ćevapi - kod Jonuza, that pair perfectly with yoghurt. Made according to the original recipe, juicy and tender pieces of meat melt in your mouth. Five or ten ćevapi are usually ordered, and that‘s how they are charged - per piece. Side dishes include onions and chili peppers, kajmak or marinated cheese and, of course, pita bread. The friendly staff are here to serve you at any time of the day because they work from 0 to 24 hours. The novelty is the expansion of the offer, and now you can also try veal or chicken burger, steak and sudžuk, and sweeten yourself with baklava, tulumba and urmašica.</description>
+	<ExtendedData><SchemaData schemaUrl="#NoviSad">
+		<SimpleData name="Score">under 10</SimpleData>
+		<SimpleData name="Torques">no</SimpleData>
+		<SimpleData name="Link">https://rs.gaultmillau.com/en/restaurants/rostilj-sadrvan-kod-jonuza</SimpleData>
+		<SimpleData name="Web"></SimpleData>
+		<SimpleData name="Phone">+381 (0) 2 038 1230</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>20.5179216382394,43.1409920350492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KRIVINA</name>
+	<description>Krivina is not just a wine bar, it is a real oasis for hedonists. By setting high standards in the promotion of wine and rakija culture, this space has become a gathering place for the community of lovers of good tastes. Experienced sommeliers are dedicated to presenting an impressive range of drinks. With more than 500 types of wine and hundreds of brands of rakija and other spirits, every lover will find something to their taste here. And what is special, here you can try almost everything that is on offer. In addition to wine and brandy, we also offer artisan chocolates, beers, and original tobacco products, as well as accessories. Here, hedonism is understood and appreciated in every sense, and Krivina is a unique place where both those who are just entering the world of wine and rakija and the experienced connoisseurs feel comfortable.</description>
+	<ExtendedData><SchemaData schemaUrl="#NoviSad">
+		<SimpleData name="Score">under 10</SimpleData>
+		<SimpleData name="Torques">no</SimpleData>
+		<SimpleData name="Link">https://rs.gaultmillau.com/en/restaurants/krivina</SimpleData>
+		<SimpleData name="Web">https://krivina.rs/</SimpleData>
+		<SimpleData name="Phone">+381 21 271 0120</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>19.8429306,45.2489982,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CUBO</name>
+	<description>In a beautiful location near the Danube and Novi Sad‘s favorite promenade Štrand, Cubo will accommodate you in their shady garden or pleasant interior. With a wine list that covers Serbian wine production, their menu invites you to stroll through a range of styles and tastes. The long selection of soups at the very beginning confirms this, with an intriguing combination of apples and walnuts in a celery potage, and a convincing consommé with ravioli. We recommend two mousses as an appetizer – blue cheese with fig jam, or chicken liver with Oxford sauce, and the delicious focaccia goes perfectly with both. This part of the menu also includes burrata with blood orange and deep-fried camembert with cranberries, tuna carpaccio and salmon with pomegranate caviar. Of the dozen types of pizza, Cubo with pork fillet, Rustic and Bolognese are intriguing, and an interesting offer of pasta and risottos. It is not easy to choose in the fish segment and meat specialties. From duck and chicken to cutlets and steaks. We made the right choice with the recommendation from the friendly staff: a touch of Asia with chicken drumsticks in honey, a return to home turf with beef cheeks, potato puree and mushroom ragu, to ribs in a spicy sauce with sauteed vegetables. Finally, with the waiter‘s strong recommendation, we chose rich Mozart balls in coffee sauce, and chocolate leaves filled with white chocolate and cashew cream with blueberry sorbet. In three words: pleasant, friendly, and delicious.</description>
+	<ExtendedData><SchemaData schemaUrl="#NoviSad">
+		<SimpleData name="Score">13</SimpleData>
+		<SimpleData name="Torques">2</SimpleData>
+		<SimpleData name="Link">https://rs.gaultmillau.com/en/restaurants/restoran-cubo</SimpleData>
+		<SimpleData name="Web">http://www.cubonovisad.rs</SimpleData>
+		<SimpleData name="Phone">+381 (0) 2 142 1721</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>19.850208,45.23929,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PETRUS</name>
+	<description>Petrus is a restaurant in the center of Novi Sad, with a spacious and beautiful garden. Contemporary and comfortable, it rounds off its concept with an equally diverse menu, and a serious list of cocktails, alcoholic drinks, and wine. The menu effectively spans contemporary culinary trends, ranging from modified national standards and international classics to novelties that are highlighted in a special offer. It all starts with a varied offer for breakfast, from classic to special options, with particularly imaginative sandwiches, continued with bruschetta, and followed by cream soups, and the cream soup with steak, spinach, and oyster mushrooms stands out as a novelty. Salads can be a nice introduction to a meal, like caprese served with focaccia, but also a stand–alone dish, like the salad with crispy squid, or a Chef salad with three types of meat. There really is something for everyone in the central part. There is a long list of pastas, risottos and pizzas, fish &amp; chips and perch fillets, as well as an impressive selection of chicken and turkey dishes, Zlatibor uštipci and gourmet pljeskavica, steaks and burgers. The servings are more than generous, and the service is fast and discreet. Look out for novelties that follow modern trends, the Wellington burger is a creative variation on a familiar theme, while the delicious royal prawn tempura is served with edamame risotto. Desserts are on a separate menu and really deserve special attention.</description>
+	<ExtendedData><SchemaData schemaUrl="#NoviSad">
+		<SimpleData name="Score">12.5</SimpleData>
+		<SimpleData name="Torques">1</SimpleData>
+		<SimpleData name="Link">https://rs.gaultmillau.com/en/restaurants/petrus-caffe-gallery-bar</SimpleData>
+		<SimpleData name="Web">https://petruscaffe.com/</SimpleData>
+		<SimpleData name="Phone">+381 (0) 6 632 3424</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>19.8463861,45.2543594,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SOKAČE</name>
+	<description>A colorful and chaotic combination of ethnic motifs and colors, good home cooking and, sometimes, cheerful live music, topped with a huge dose of warm Vojvodina charm. That would be the brief description of Novi Sad restaurant Sokače. Whether in the warmer months you are planning a meal in the lovely patio or in the charming interior, be sure to make a reservation, especially on weekends, because the restaurant has long been a favorite place in Novi Sad. When you sit, the friendly staff will serve you delicious homemade slatko. Start the meal with the famous pepper soup served in interesting pots that are brought to your table with a lid, filled with hot, tasty, and invigorating soup. In the winter months, be sure to order pork aspic - pihtije, lamb sarmica or pie with roasted peppers. The specialties of the house are mostly served for several people, whether it‘s pork or lamb leg, stuffed fillet rolled in bacon or pork ribs that are perfectly baked and then coated with a honey–based sauce. The ribs are discreetly sweet, and pieces of pickled onion serve as a good counterpoint to that taste. The series continues with grilled specialties prepared in front of you. There are ćevapi in various iterations, as well as pljeskavica, kebabs, sausages and sweetbread. Slow cooked sauerkraut with smoked pork, sarma, gourmet tripes and vine leaf rolls with yoghurt are just some of the local specialties offered by Sokače.</description>
+	<ExtendedData><SchemaData schemaUrl="#NoviSad">
+		<SimpleData name="Score">12</SimpleData>
+		<SimpleData name="Torques">1</SimpleData>
+		<SimpleData name="Link">https://rs.gaultmillau.com/en/restaurants/restoran-soka%C4%8Ce</SimpleData>
+		<SimpleData name="Web">https://www.sokace.rs/</SimpleData>
+		<SimpleData name="Phone">+381 21 662 2007</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>19.8396103,45.2547344,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VIDA</name>
+	<description>Bistro Vida is a colorful place where dedication and creativity are already visible in the part dedicated to coffee. They are especially famous for their macchiato served in a sweet cone covered in chocolate. Fresh ingredients, homemade bread, and sauces are carefully combined on the plate both at breakfast time and at brunch or lunch time. In the breakfast section there are homemade granola bars, sandwiches, and a variety of dishes with eggs, while the brunch and lunch offer is expanded with delicious meal salads, tortillas, and healthy bowls, with vegan or meat options. One of their specialties is the Cancun bowl, which includes spicy Mexican meatballs, edamame, roasted bananas, and a variety of fresh vegetables, seasoned with a homemade sauce. American pancakes are an indispensable part of the offer, especially pancakes with flavor of Japanese matcha tea.</description>
+	<ExtendedData><SchemaData schemaUrl="#NoviSad">
+		<SimpleData name="Score">under 10</SimpleData>
+		<SimpleData name="Torques">no</SimpleData>
+		<SimpleData name="Link">https://rs.gaultmillau.com/en/restaurants/vida</SimpleData>
+		<SimpleData name="Web"></SimpleData>
+		<SimpleData name="Phone">+381 21 661 1246</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>19.8181483,45.2634726,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KUĆA MALA</name>
+	<description>Hidden in an alley in the center of Novi Sad, this pizzeria justifies its name with its homely atmosphere. The unique interior attracts attention, and the garden is perfect for enjoying a hearty breakfast. Authenticity is also reflected in the offer of almost 30 pizzas with unusual names and the most diverse ingredients. The pizza that bears the name of the place, with as many as six different cured meat products, is a real feast! The originality of their pizzas comes to the fore with the use of ingredients such as peanuts, prunes and walnuts, pineapple, pumpkin butter or pears. Kuća mala also offers a rich meal of salads, meatballs, lasagna, and pasta. The dessert menu revives the tradition of Vojvodina with dumplings, potato dough dumplings with plum filling, fruit pies and juicy pancakes.</description>
+	<ExtendedData><SchemaData schemaUrl="#NoviSad">
+		<SimpleData name="Score">under 10</SimpleData>
+		<SimpleData name="Torques">no</SimpleData>
+		<SimpleData name="Link">https://rs.gaultmillau.com/en/restaurants/ku%C4%86a-mala</SimpleData>
+		<SimpleData name="Web">https://kucamalanovisad.business.site/?utm_source=gmb&amp;utm_medium=referral</SimpleData>
+		<SimpleData name="Phone">+381 21 301 5693</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>19.8496862,45.2572306,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TRI PETICE</name>
+	<description>This charming place with a local gastro-bar concept has been providing exceptional quality for years. A short and authentic menu and a good selection of drinks at the bar are promising at first glance. Cocktails are a mix of international classics and signature cocktails made with soul. Food is like that - high quality, interesting and tasty. To start, we recommend pate or terrine, baked eggplant in bechamel sauce accented with garlic chips or delicious tacos with beef tongue, salsa and spicy mayonnaise. They have homemade soup, cream soup or French onion soup for those who want to warm up. In the selection of main dishes, we highlight pork chop with apple and sage sauce, as well as excellent beef tongue.</description>
+	<ExtendedData><SchemaData schemaUrl="#NoviSad">
+		<SimpleData name="Score">under 10</SimpleData>
+		<SimpleData name="Torques">no</SimpleData>
+		<SimpleData name="Link">https://rs.gaultmillau.com/en/restaurants/tri-petice</SimpleData>
+		<SimpleData name="Web">https://www.tripetice.rs/</SimpleData>
+		<SimpleData name="Phone">+381 21 382 5338</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>19.8374563,45.2583653,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FISH&amp;ZELENIŠ</name>
+	<description>Pleasantly designed ambience and Mediterranean taste welcome you to this restaurant with a cute name. Although in the center of Novi Sad, Fish will instantly transport you to the shores of the Mediterranean with its details and warm colors and with its cuisine based on sea fish and local vegetables. Although there are a few meat dishes on the menu, such as turkey with mlinci, and rolled lamb on celeriac puree, the focus is on the flavors of the sea. We recommend a mild cream soup of vegetables and fresh sea fish to start, followed by some of the imaginative small plates ideal for sharing – sea fish pate with red onion jam, veal lahmajun brings a breath of the Orient, and refreshing beet tzatziki from. This section also includes hummus, zucchini croquettes, prawns in kadayıf, salmon and tuna carpaccio, crispy cheese rolls, and grilled cheese with seasonal fruit jam. Pasta and risotto are in a separate segment, and homemade tagliatelle with seafood is one of the richest we have tried on all coasts. Black and white risotto round off this segment of the menu. From the selection of fish, we chose tuna in red pepper, with an attractive presentation, as well as perch from Tisa. The well–written wine list is based on Serbia, the region, and Europe, with selected recommendations from the sommelier. A selection of homemade breads is a great accompaniment, and the highlights of the dessert list are the parsnip cream and the attractive mille-feuille with unusual dark crust.</description>
+	<ExtendedData><SchemaData schemaUrl="#NoviSad">
+		<SimpleData name="Score">14.5</SimpleData>
+		<SimpleData name="Torques">2</SimpleData>
+		<SimpleData name="Link">https://rs.gaultmillau.com/en/restaurants/fish-i-zelenis</SimpleData>
+		<SimpleData name="Web">https://www.fishizelenis.com/</SimpleData>
+		<SimpleData name="Phone">+381 (0) 2 145 2000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>19.8459943,45.2587119,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PIKNIK</name>
+	<description>The right place for an authentic Vojvodina picnic is on Fisherman‘s Island, on the banks of the Danube. The Piknik restaurant is equally enjoyable when sitting in the spacious garden under the canopy on warm days, as well as inside, in an environment with lots of wood and a view of the river. The menu is a fun walk across Vojvodina, and along the way you will meet Namiguša and Šizika, Varošanka and Damica, which are just some of the lovely names on the menu. Mother‘s clear duck soup will invigorate you, as well as kremašica – a creamy veal ragout stew, followed by the delicious local goose pate and unusual crackling mousse with sesame and cream cheese. The proximity of the river calls for fish, so there are catfish and carp, but also perkelt, trout en papillote, squid, and salmon. In the meat section, Miraždžika - tasty chicken liver gentle fried with grilled apples and cranberries, on celery puree, and irresistibly delicious ribs, beef cheeks, pig shank, and pork medallions in their own juice. The gastronomic puzzle of Piknik also includes rolls with steak, gratinated pasta with zucchini, and the section of grilled food, with baby spinach salad. In the sweet section, check out why Zaovina vanilla slice with raspberries became famous, whether Snajka‘s loating island is like grandma‘s, and how delicious are Jetrva‘s pancakes filled with hazelnuts, baked in milk and topped with vanilla cream. The service is fast, the atmosphere is casual and cheerful.</description>
+	<ExtendedData><SchemaData schemaUrl="#NoviSad">
+		<SimpleData name="Score">12</SimpleData>
+		<SimpleData name="Torques">1</SimpleData>
+		<SimpleData name="Link">https://rs.gaultmillau.com/en/restaurants/restoran-bar-piknik</SimpleData>
+		<SimpleData name="Web">https://piknik.rs/</SimpleData>
+		<SimpleData name="Phone">+381 69 174 5645</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>19.8350188,45.2299732,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LOFT DOWNTOWN</name>
+	<description>Loft is a place that offers quality coffee and delicious food, whether it‘s a quick breakfast, a relaxing lunch, or an evening out. The menu has everything you need to start or end your day – from specialty coffee that goes perfectly with Belgian aromatic waffles, chestnut cake, or raspberry-coconut cake, to savory snacks that go well with their craft beer. Fresh and fine pastries are available all day, and there is a wide selection for lunch or dinner. From creamy risotto with chicken and vegetables, to juicy marinated rump steak, or nutritious bowls with vegetables, grains, dressing, and options with chicken or falafel. At Loft, you can rent a bike, and you can choose whether to refresh and treat yourself before or after the ride.</description>
+	<ExtendedData><SchemaData schemaUrl="#NoviSad">
+		<SimpleData name="Score">under 10</SimpleData>
+		<SimpleData name="Torques">no</SimpleData>
+		<SimpleData name="Link">https://rs.gaultmillau.com/en/restaurants/loft-coffee---food-bar</SimpleData>
+		<SimpleData name="Web">https://loftcafe.rs/</SimpleData>
+		<SimpleData name="Phone">+381 60 070 1171</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>19.8449882,45.255636,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PIVNICA GUSAN</name>
+	<description>Located on several levels, in a charming passage in the city center, the Gusan pub exudes the spirit of tradition. The homely offer starts with breakfast, but what sets this pub apart is its commitment to home cooking. Every day, there are home cooked dishes on offer, such as Vojvodina goulash with noodles, real home–made beans with dried meat, and there are also sarma, stuffed peppers, or fried liver. For those who like traditional kafana dishes, there are tripes or pig‘s trotter in sauce. In addition to home cooked dishes, Gusan offers a wide selection of grilled meats, classics such as Karađorđe or Wiener Schnitzel, as well as vegan schnitzel and vegetarian pljeskavica. In the spirit of Vojvodina tradition, sweeten yourself with dumplings, pancakes, or deep-fried fragrant apples.</description>
+	<ExtendedData><SchemaData schemaUrl="#NoviSad">
+		<SimpleData name="Score">under 10</SimpleData>
+		<SimpleData name="Torques">no</SimpleData>
+		<SimpleData name="Link">https://rs.gaultmillau.com/en/restaurants/pivnica-gusan</SimpleData>
+		<SimpleData name="Web">https://pivnicagusan.rs</SimpleData>
+		<SimpleData name="Phone">+381 (0) 2 142 5570</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>19.8468158,45.255508,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ŠEĆERNEMA</name>
+	<description>The name of the pastry shop – Šećernema refers to sweets that delight in taste, and at the same time are free of gluten, lactose and added sugar. Their unique and wide range of treats caters to different dietary needs and tastes. Petit fours are ideal if you would like to try more flavors – sour cherry volcano, chocolate punch, mocha, bayadere, malaga (raisin) and mignon are just some of the suggestions. Cakes are distinguished by original combinations that are arranged in layers – nuts and dates, milk cream made from nuts and fruit, coconut, or chocolate... Energy bars are perfect for a snack, treats are accompanied by various drinks, and their products are popular for take away – peanut butter and Zdravić, cream made from organic cocoa, hazelnut, agave, and stevia.</description>
+	<ExtendedData><SchemaData schemaUrl="#NoviSad">
+		<SimpleData name="Score">under 10</SimpleData>
+		<SimpleData name="Torques">no</SimpleData>
+		<SimpleData name="Link">https://rs.gaultmillau.com/en/restaurants/se%C4%86ernema</SimpleData>
+		<SimpleData name="Web"></SimpleData>
+		<SimpleData name="Phone">+381 65 356 6127</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>19.8392577,45.2489522,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SUSHI FRESH</name>
+	<description>Although limited in space, this place offers everything you need for an authentic Japanese experience. From rich miso soup to delicious spring rolls, as well as the inevitable okonomiyaki – a savory pancake made with vegetables, bacon, and pork. The sushi offer is divided into sections that offer everything from classic nigiri and maki rolls to premium and specialty rolls. Onigiri with salmon and tuna are a simple and delicious option. Among the specialty rolls, the Double Tempura Roll stands out for its crispness. Sets, from smaller ones to real feasts with over 50 different pieces, are a great choice to try more flavors. Mitarashi dango, a Japanese sticky rice flour dessert with caramel sauce and chocolate ganache, brings an authentic flavor note.</description>
+	<ExtendedData><SchemaData schemaUrl="#NoviSad">
+		<SimpleData name="Score">under 10</SimpleData>
+		<SimpleData name="Torques">no</SimpleData>
+		<SimpleData name="Link">https://rs.gaultmillau.com/en/restaurants/sushi-fresh</SimpleData>
+		<SimpleData name="Web">https://sushifresh.rs</SimpleData>
+		<SimpleData name="Phone">+381 63 833 6445</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>19.841257,45.248642,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SAVOCA</name>
+	<description>Located on a key Novi Sad boulevard, Savoca consistently and convincingly represents Italian cuisine with convenient local variations. The pleasant and comfortable interior, and the garden conveniently sheltered from the busy street, are a perfectly adequate environment to indulge in the local specialties. We recommend Savoca bruschetta, where a fine mix of three types of bruschetta arrives on the board. And pizzas, pizzas are made according to the original recipe from Caputo zero–zero flour, baked in wood–fired oven and served in several sizes. A selection of some thirty pizzas will really satisfy all tastes. The dough is delicious, abundantly covered with ingredients, and the specials are pizza with seven types of cheese, Gamberetti, Golden with truffles, or Porto Montenegro with Njeguš prosciutto and kajmak. We recommend the baked dishes with chicken and turkey, served in earthenware dishes. Among the hand–made pastas, the hearty penne Al Cardinale with grilled veal steak and sun– dried tomatoes, and the gnocchi Mille Sapore with prosciutto, wild mushrooms and pesto stand out, and there are also attractive ravioli and risotto and lasagna. As for fish, they have trout, squid, tuna steak and salmon in hollandaise sauce, while steak and pork fillet Perfetto, stuffed with three types of cheese and almonds, are the highlights of the meat part of the offer. The wine list relies on wines from Italy and Serbia, and the selection of desserts relies on Tito‘s vanilla slice and tiramisu.</description>
+	<ExtendedData><SchemaData schemaUrl="#NoviSad">
+		<SimpleData name="Score">11.5</SimpleData>
+		<SimpleData name="Torques">1</SimpleData>
+		<SimpleData name="Link">https://rs.gaultmillau.com/en/restaurants/restaurant---pizzeria-savoca</SimpleData>
+		<SimpleData name="Web">https://savocapicerija.rs</SimpleData>
+		<SimpleData name="Phone">+381 (0) 6 973 6736</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>19.8329535,45.2600016,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PROJECT 72 WINE&amp;DELI</name>
+	<description>Seductive, creative, informal, and serious, local and global, Project 72 is an imaginative gastronomic project that deserves attention. It is far enough from the center of Novi Sad to be away from the hustle and bustle, and you can easily walk to it. A nice garden and an even nicer interior with charming details, direct and friendly staff who know how to guide you through the offer, and a carefully designed wine list create a unique gastronomic experience. We recommend that you choose several items from each segment. The portions here are designed for sharing, so one segment of the menu is called Deli &amp; Deli. Duck liver pâté is an absolute must for starters, with an intense and finely balanced taste, served with onion jam and raspberry sauce. There is also crackling mousse, and a truly unusual ajvar ice cream, beef tartare in apple smoke with egg yolk gel and homemade pickle. To continue the playfulness, we suggest ravioli filled with game ragu and, for example, rolls with cheese and honey. On the main stage, perfectly tender duck breasts reign supreme, served with carrot puree and topped with juniper sauce. There is also pressed lamb with pita bread, as well as beef tongue with Swiss chard, rib eye steak cured in fat and a daily offer of local fish. The lucid gastronomic circle is rounded by desserts, and we sincerely recommend the parsnip cream. Playful and diverse, this restaurant offers a very enjoyable Wine and Deli experience.</description>
+	<ExtendedData><SchemaData schemaUrl="#NoviSad">
+		<SimpleData name="Score">15</SimpleData>
+		<SimpleData name="Torques">3</SimpleData>
+		<SimpleData name="Link">https://rs.gaultmillau.com/en/restaurants/project-72-creative-local-cusine</SimpleData>
+		<SimpleData name="Web">https://project72.rs/</SimpleData>
+		<SimpleData name="Phone">+381 21 657 2720</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>19.849398,45.259746,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KAFE RESTORAN MAŠA</name>
+	<description>In the heart of Novi Sad, on the main street, Maša restaurant offers more than just a meal, it is a gathering place for guests of all generations. With a garden on the promenade itself and a hidden inner garden, a large indoor space inspired by a medieval sailing ship, Maša is special at any time of the day. Breakfast is a real treasure of flavors – from different types of scrambled eggs to French or English breakfast. If you are yearning for a hearty meal, Maša offers powerful dry–aged burgers, burgers with shredded beef, a variety of salads, succulent pizzas, Italian pasta, delicious barbecue, all the way to lean and vegetarian dishes. The restaurant is also recognized for its impressive range of unique desserts, from cakes with Belgian chocolate, to pies, baklava to fruit cups and pancakes.</description>
+	<ExtendedData><SchemaData schemaUrl="#NoviSad">
+		<SimpleData name="Score">under 10</SimpleData>
+		<SimpleData name="Torques">no</SimpleData>
+		<SimpleData name="Link">https://rs.gaultmillau.com/en/restaurants/masa-%E2%80%93-kafe-restoran</SimpleData>
+		<SimpleData name="Web">https://www.masha.rs/</SimpleData>
+		<SimpleData name="Phone">+381 (0) 2 145 1241</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>19.8465379,45.2557476,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RESTORAN VELIKI</name>
+	<description>Near the Novi Sad pedestrian zone, there is a restaurant that is a separate part of the hotel at the same address. With an interesting interior and a lively atmosphere, the menu adequately represents Vojvodina cuisine with all the culinary influences and styles of the former Austro–Hungarian Empire. For starters, homemade soup with noodles, followed by local cheeses and the famous meat delicacies – sausage, liver, bacon, and dried pork fillet. Then some of the excellent home–made pasta, and a meal salad, such as spinach and mushrooms, or beetroot and goat cream cheese, zucchini with chicken and cranberries, or goat cheese in cornflakes, are a good choice. For the main course, juicy beef pörkölt, or Hortobágy pork stew with spicy sausage and dumplings, Slovak and Debrecen sausages, smoked trout with potato salad, turkey in sour cherry sauce, imperial ribs, and meatballs with potato stew. Among the seasonal specialties, rolled lamb ribs, duck on sweet potato puree, Wiener schnitzel and chicken liver pâté are excellent choices for colder weather. Snacks go down easily with wines from Vojvodina, and a good selection of rakijas is a great way to whet your appetite. Desserts are great: floating island served in a jar, excellent vanilla slice, perfect chocolate semolina cake, excellent warm pie with apples and ice cream, mighty Prekmurje gibanica, dumplings, gnocchi with poppy seeds, cheesecake, and pumpkin tart. In short, this is the place to enjoy Vojvodina cuisine.</description>
+	<ExtendedData><SchemaData schemaUrl="#NoviSad">
+		<SimpleData name="Score">12</SimpleData>
+		<SimpleData name="Torques">1</SimpleData>
+		<SimpleData name="Link">https://rs.gaultmillau.com/en/restaurants/restoran-veliki</SimpleData>
+		<SimpleData name="Web">https://cafeveliki.com</SimpleData>
+		<SimpleData name="Phone">+381 69 183 5454</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>19.8462351469857,45.2584279708089</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RESTORAN KOD BRKE</name>
+	<description>The pleasant interior of the pub, all in the sign of the mustache, offers an exceptional selection of whiskey and beer for real enjoyment, as well as incredibly large portions of beer food, and meat, meat, and more meat... If this sounds tempting, Kod Brke is the place for you. Portions are designed to feed even the hungriest guest, beware. Appetizers are really tempting. From Negotin bruschetta with rump steak and soft grilled Miroč cheese, to Mexican Taquitos, and pulled pork in a bun or quesadilla, they will prepare you for an excellent meal in a mix of excellent pub food. If you prefer a lighter version, the homemade pasta is of exceptional quality. We recommend you try the silk pasta with turkey, chanterelles, and toasted walnuts. And if you are looking for something specific, then you’ll enjoy the BBQ. From BBQ ribs and smoked pork hock to beef, you won‘t go wrong with your choice. A few genuine specialties are available mostly on Wednesdays and be sure to ask the friendly staff for a recommendation. Calf cheeks melt in your mouth and are truly a special treat for slow food lovers, while dry age black angus ribeye or t–bone is the right choice for truly hungry guests. Premium plus burger or chicken wings are an ideal choice that you can pair with an excellent selection of beers. Finally, if you have room for dessert, try mille-feuille with seasonal fruit or Brka‘s special variant of Vanilla slice.</description>
+	<ExtendedData><SchemaData schemaUrl="#NoviSad">
+		<SimpleData name="Score">11</SimpleData>
+		<SimpleData name="Torques">1</SimpleData>
+		<SimpleData name="Link">https://rs.gaultmillau.com/en/restaurants/restoran-kod-brke</SimpleData>
+		<SimpleData name="Web">https://kodbrke.rs/</SimpleData>
+		<SimpleData name="Phone">+381 21 301 7505</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>19.798733,45.245345,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KOMBINAT</name>
+	<description>The Kombinat is dedicated to breakfast as the perfect meal to start the working day, so it offers creamy scrambled eggs, lush French toast, and delicious sandwiches. From seven in the morning, they offer already prepared meals, porridges, and pastries to take away. The other sections of the menu also offer a large selection – the salad meal combines meat, vegetables, nuts, and refreshing dressings, and we recommend seasonal dishes and dishes inspired by international tastes with meat and fish, as well as pasta and vegetarian options. Special attention is paid to avocado, which is creatively combined in dishes and refreshing drinks. In the sweet section, Kombinat offers irresistible combinations of fruit, muesli and yogurt, Viennese strudel, cakes with carrot, apple, or chocolate, as well as fine tarts. The restaurant‘s spacious and comfortable garden is perfect for enjoying on nice days.</description>
+	<ExtendedData><SchemaData schemaUrl="#NoviSad">
+		<SimpleData name="Score">under 10</SimpleData>
+		<SimpleData name="Torques">no</SimpleData>
+		<SimpleData name="Link">https://rs.gaultmillau.com/en/restaurants/kombinat</SimpleData>
+		<SimpleData name="Web">https://www.kombinatfood.rs/</SimpleData>
+		<SimpleData name="Phone">+381 21 662 2266</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>19.845907,45.253763,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>JASMIN A MASLINA</name>
+	<description>Certainly one of the more unusual places in the Novi Sad gastronomic scene is located in an unpretentious residential building. When you ring the bell on the seemingly ordinary door, you will step directly into the kitchen! Already at the door, you are greeted by Jasmina and her lovely and cheerful staff. They accommodate you carefully and at the same time offer an aperitif and then introduce you to the menu for the day. The menu changes frequently, once every two weeks, and each time is conceived as a gastronomic experience from several gangs. Along with the menus, they offer wine pairings that are carefully selected by local and regional winemakers. They sometimes also organize dinners with special wineries and then adjust their menus to the wine offer for that evening. Starting from the choice of plates, the selection and combination of ingredients, as well as the play of different textures, a thoughtful and special gastronomic experience awaits you. In our case, we were greeted by brie Bayadère sprinkled with salty and crunchy caramelized nuts and served with green apple and celery sorbet, which thoughtfully introduced freshness into every bite. Spinach semolina cake with almonds and sun–dried tomatoes served on buttermilk, which adds a creamy texture to every bite. Additional flavor is provided by strips of fermented red pepper covering the cake. The final dish was pork belly, well cooked and served with horseradish and rosemary cream with sauerkraut and fennel salad. The menus change often, but the effort and skill remain at the same level.</description>
+	<ExtendedData><SchemaData schemaUrl="#NoviSad">
+		<SimpleData name="Score">14</SimpleData>
+		<SimpleData name="Torques">2</SimpleData>
+		<SimpleData name="Link">https://rs.gaultmillau.com/en/restaurants/jasmin-a-maslina</SimpleData>
+		<SimpleData name="Web"></SimpleData>
+		<SimpleData name="Phone">+381 (0) 6 346 0267</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>19.8471182,45.250194,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LE KLOK BISTRO</name>
+	<description>Le Klok has refreshed Novi Sad‘s offer with an authentic bistro concept that focuses on basic French cuisine with the occasional excursion into Italian ideas, but the real question is – how? The feeling we got is – very personal, and with a great passion for food, and for quality ingredients, following their origin as well as the idea – we do it ourselves. Homemade bread in their version is an excellent start with quality olive oil and balsamic vinegar. It‘s always good to start with a dip! They obviously pay a lot of attention to the dishes they prepare, both in their development and in their conceiving and preparation. With each dish, you will hear a short narrative explaining why what you are eating is special, and how much effort was put into it to get to the plate. Such stories are always useful, because they round off nicely the experience, and they direct the guest‘s attention to the food. Onion soup served French style with melting baked cheese, this time it was combined with blue cheese and cognac. There is also a twice– baked cheese souffle that captivates with French decadence and is extremely elegant in taste. The menu includes a wide range of meat and fish specialties. With a good wine list, a nice selection of wines by the glass, a pleasant atmosphere, and exceptional service, Le Klok has fully justified its attraction to the public.</description>
+	<ExtendedData><SchemaData schemaUrl="#NoviSad">
+		<SimpleData name="Score">13.5</SimpleData>
+		<SimpleData name="Torques">2</SimpleData>
+		<SimpleData name="Link">https://rs.gaultmillau.com/en/restaurants/le-klok-bistro</SimpleData>
+		<SimpleData name="Web"></SimpleData>
+		<SimpleData name="Phone">+381 64 886 7667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>19.861981,45.255405,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>COMIDA SANCHEZ</name>
+	<description>Comida Sanchez has won the hearts of Mexican street food lovers. The place is of the hole-in-the-wall type and reminds of some of the best experiences we‘ve had with this type of street food. Long cooking and marinating, lots of fresh herbs, homemade tortillas and accompanying sauces come together effectively in a menu that you will enjoy. There are, for us, favorites, birria tacos with slow-cooked beef, grilled with cheese, as well as versions with pork and chicken. Chimichangas, quesadillas, Brazilian meatballs paired with a dozen homemade salsas will delight any foodie. For a sweet ending, there‘s Peruvian citrus cake or tortilla chips with Mexican cherry sauce.</description>
+	<ExtendedData><SchemaData schemaUrl="#NoviSad">
+		<SimpleData name="Score">under 10</SimpleData>
+		<SimpleData name="Torques">no</SimpleData>
+		<SimpleData name="Link">https://rs.gaultmillau.com/en/restaurants/comida-sanchez</SimpleData>
+		<SimpleData name="Web">https://www.comidasanchez.com/en/</SimpleData>
+		<SimpleData name="Phone"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>19.840431,45.264586,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>THE CAMELOT - GASTRO PUB</name>
+	<description>The Camelot gastro–bar exudes a relaxed atmosphere but takes its food and home–made craft beer seriously. The interior is inspired by knights and the legends of Camelot, from wooden tables to plates shaped like knights‘ shields. The menu is dominated by excellent meat, but pasta and salad meals are also on offer. In the first part of the day, fried pancakes, a meal of salads, sandwiches and eggs are popular, and lunch is a real knightly celebration. Ribs in beer covered with honey and served with homemade potatoes and sauerkraut are the star of the menu. Pork medallions in sour cherry or mushroom sauce, pork shins and chicken in various variations satisfy the diverse tastes of guests. Pancakes with coffee are a nice, sweet ending to this pleasant gastronomic journey.</description>
+	<ExtendedData><SchemaData schemaUrl="#NoviSad">
+		<SimpleData name="Score">under 10</SimpleData>
+		<SimpleData name="Torques">no</SimpleData>
+		<SimpleData name="Link">https://rs.gaultmillau.com/en/restaurants/the-camelot</SimpleData>
+		<SimpleData name="Web">https://thecamelot.rs</SimpleData>
+		<SimpleData name="Phone">+381 (0) 2 152 8095</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>19.8431183,45.2490609,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ANANDA VEGAN RESTAURANT</name>
+	<description>Restaurant Ananda was started out of sincere love and dedication to preparing the highest quality vegan meals. The offer, which is regularly updated, includes soups made from seasonal vegetables, cooked dishes with beans, peas, or lentils, balls made from pepitas or from red cabbage, pasta, and various types of potatoes and stews. All this is accompanied by integral homemade bread and fresh salads. The restaurant also offers a la carte dishes – fried vegetables, falafel, and a red lentil burger are some of the favorites on the menu. Ananda prepares pastries, popular deep–dish pizza with tofu, sandwiches, and a variety of pies every day. The sweets are without added sugar, and the apple pie, with a cup of tea, is the ideal end to the meal.</description>
+	<ExtendedData><SchemaData schemaUrl="#NoviSad">
+		<SimpleData name="Score">under 10</SimpleData>
+		<SimpleData name="Torques">no</SimpleData>
+		<SimpleData name="Link">https://rs.gaultmillau.com/en/restaurants/ananda-vegan-restaurant</SimpleData>
+		<SimpleData name="Web">https://www.ananda.rs</SimpleData>
+		<SimpleData name="Phone">+381 63 108 8978</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>19.839536,45.249277,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TIJA PASTRY SHOP</name>
+	<description>Pastry shop Tija is a place where you can have a cup of coffee, a glass of juice, or start the day with a savory croissant while enjoying creamy cakes. However, the sophisticated range of cakes dominates. The names of the cakes are clearly inspired by famous artists, so you can indulge yourself with Kandinsky with raspberries, Picasso with passion fruit, Van Gogh with pistachio and apricot, Frida Kahlo with vanilla and strawberry, and the most popular is the Caravaggio cake with three types of Belgian chocolate on a chocolate brownie, with the addition of almond crumble. Tija follows the rhythm of the seasons and holidays, and their offer changes to reflect the aesthetics and the spirit of each special occasion and season. This pastry shop is a sweet, peaceful oasis to enjoy desserts and coffee.</description>
+	<ExtendedData><SchemaData schemaUrl="#NoviSad">
+		<SimpleData name="Score">under 10</SimpleData>
+		<SimpleData name="Torques">no</SimpleData>
+		<SimpleData name="Link">https://rs.gaultmillau.com/en/restaurants/tija-pastry-shop</SimpleData>
+		<SimpleData name="Web">https://tijapastryshop.com</SimpleData>
+		<SimpleData name="Phone">+381 66 630 0001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>19.8488462,45.2540547,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KORPA DELI MARKET I BISTRO</name>
+	<description>A modern restaurant focused on meat specialties and next to a well- supplied delicatessen store. The wine list is short, but wines from the store are available with a service charge. The menu opens with a selection of hand–sliced delicacies, followed by dry age tartare, tataki, carpaccio, and burrata. An interesting selection of appetizers follows, we chose rolls filled with pork ham, beets with young cheese, apple gel and sprinkled with hazelnuts. The pasta and risotto section varies familiar themes, and the simple spaghetti aglio e olio was tasty and spicy. In the meat section, they have turkey with mlinci, duck breast and veal fillet in cognac and pine nut sauce, and for serious gourmets, we recommend the burger for two with kajmak from Stara Planina and pickled onions. There are also burgers, and a powerful selection of Serbian dry aged meats. For those who prefer fish, the choice is tuna, sea bass, sea bream and salmon fillets, as well as grilled squid. From the Deli menu section, we recommend the juicy and tender rolled rib, served on pumpkin puree with homemade demiglace sauce and parsnip chips, as well as the boldly spiced kebab, served with seriously spicy peppers and sour cream with mint, on homemade pita bread. Floating island with almond flakes, delicious warm cake with poppy seeds in white chocolate sauce, along with baklava with pistachios, seasonal crumble, and chocolate souffle will sweetly round off your stay.</description>
+	<ExtendedData><SchemaData schemaUrl="#NoviSad">
+		<SimpleData name="Score">12</SimpleData>
+		<SimpleData name="Torques">1</SimpleData>
+		<SimpleData name="Link">https://rs.gaultmillau.com/en/restaurants/korpa-bistro</SimpleData>
+		<SimpleData name="Web">https://korpa-deli.rs</SimpleData>
+		<SimpleData name="Phone">+381 21 210 2523</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>19.814331,45.25327,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KONOBA RIBA RIBI GRIZE REP</name>
+	<description>With its nautical design and original name, this restaurant takes you from the former Pannonian Sea to the shores of the Mediterranean with exciting tastes from the sea, with a few excursions to the land. We recommend white cod spread on bruschetta, with a few drops of olive oil, followed by a clear sea soup. Njeguš prosciutto is sliced in the middle of the tavern, there is Slavonian kulen and grilled goat cheese, and scallops and anchovies from the sea. The friendly staff will recommend the best of the offer and expertly clean and fillet the fish in front of you. The wine list, with a large selection of wines by the glass, provides an adequate accompaniment to local delicacies. Expertly prepared and perfectly tasty octopus and prawns are prepared on the grill. Among the fish on offer, turbot with a delicately sweet taste stands out, followed by sea bream and sea bass, common dentex, and John Dory, and along with them, brodetto for two, Patagonian squid, and tuna steak. The mighty, creamy, sumptuous, and brilliant, black risotto deserves special praise, and the risotto with cold tuna tartare and polenta with truffles in a crispy parmesan basket invites further exploration of this part of the menu. A selection of aged meat arrives from the mainland, including tender dry aged ram steak, and surf &amp; turf steak with prawns, while the house specialty cake brings a fine symphony of chocolate aromas. A very tasty and very appealing piece of sea in the plain of Vojvodina.</description>
+	<ExtendedData><SchemaData schemaUrl="#NoviSad">
+		<SimpleData name="Score">13.5</SimpleData>
+		<SimpleData name="Torques">2</SimpleData>
+		<SimpleData name="Link">https://rs.gaultmillau.com/en/restaurants/konoba-riba-ribi-grize-rep</SimpleData>
+		<SimpleData name="Web">https://www.rrgr.rs/</SimpleData>
+		<SimpleData name="Phone">+381 21 644 2922</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>19.848717,45.248006,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BISTRO POSLASTIČARNICA VREMEPLOV</name>
+	<description>The offer of this famous pastry shop in Novi Sad is now enriched with a daily offer of savoury snacks. Vremeplov offers a variety of bistro– style meals, perfect for breakfast, snack, or brunch. The breakfast selection includes eggs in different variations, combinations with avocado, and chia, oat, or granola porridges with refreshing fruit. Everything is prepared with attention to detail and everything is very photogenic. Sandwiches and salad meals are a great combination of textures, spreads, fresh vegetables, and herbs. While the bistro offering has brought an interesting change, the sweet section has remained unsurpassed. The queen among cakes is the author‘s cake by Mira Banjac, a masterpiece that combines Belgian dark chocolate and Cointreau liqueur in a unique decadence.</description>
+	<ExtendedData><SchemaData schemaUrl="#NoviSad">
+		<SimpleData name="Score">under 10</SimpleData>
+		<SimpleData name="Torques">no</SimpleData>
+		<SimpleData name="Link">https://rs.gaultmillau.com/en/restaurants/vremeplov</SimpleData>
+		<SimpleData name="Web">https://vremeplov.net/</SimpleData>
+		<SimpleData name="Phone">+381 (0) 6 351 7502</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>19.8396925,45.246282,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

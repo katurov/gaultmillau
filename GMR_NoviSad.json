@@ -1,0 +1,1364 @@
+[
+    {
+        "Title": "\u0160ADRVAN RO\u0160TILJ KOD JONUZA",
+        "Address": "28. novembra 12, 36300 Novi Pazar",
+        "Torques": 0,
+        "Score": 0,
+        "Review": "This restaurant is in the heart of Novi Pazar. This is where they make the far and wide famous Pazar \u0107evapi - kod Jonuza, that pair perfectly with yoghurt. Made according to the original recipe, juicy and tender pieces of meat melt in your mouth. Five or ten \u0107evapi are usually ordered, and that\u2018s how they are charged - per piece. Side dishes include onions and chili peppers, kajmak or marinated cheese and, of course, pita bread. The friendly staff are here to serve you at any time of the day because they work from 0 to 24 hours. The novelty is the expansion of the offer, and now you can also try veal or chicken burger, steak and sud\u017euk, and sweeten yourself with baklava, tulumba and urma\u0161ica.",
+        "Phone": "+381 (0) 2 038 1230",
+        "Link": "https://rs.gaultmillau.com/en/restaurants/rostilj-sadrvan-kod-jonuza",
+        "OSM": [
+            {
+                "place_id": 50198446,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 11078393721,
+                "boundingbox": [
+                    "43.1410155",
+                    "43.1411155",
+                    "20.5177254",
+                    "20.5178254"
+                ],
+                "lat": "43.1410655",
+                "lon": "20.5177754",
+                "display_name": "12, 28. \u043d\u043e\u0432\u0435\u043c\u0431\u0440\u0430, Novi Pazar, City of Novi Pazar, Raska Administrative District, Central Serbia, 71000, Serbia",
+                "class": "place",
+                "type": "house",
+                "importance": 0.41000999999999993
+            }
+        ]
+    },
+    {
+        "Title": "KRIVINA",
+        "Address": "Sremska 9, 21000 Novi Sad",
+        "Torques": 0,
+        "Score": 0,
+        "Review": "Krivina is not just a wine bar, it is a real oasis for hedonists. By setting high standards in the promotion of wine and rakija culture, this space has become a gathering place for the community of lovers of good tastes. Experienced sommeliers are dedicated to presenting an impressive range of drinks. With more than 500 types of wine and hundreds of brands of rakija and other spirits, every lover will find something to their taste here. And what is special, here you can try almost everything that is on offer. In addition to wine and brandy, we also offer artisan chocolates, beers, and original tobacco products, as well as accessories. Here, hedonism is understood and appreciated in every sense, and Krivina is a unique place where both those who are just entering the world of wine and rakija and the experienced connoisseurs feel comfortable.",
+        "Phone": "+381 21 271 0120",
+        "Web site": "https://krivina.rs/",
+        "Link": "https://rs.gaultmillau.com/en/restaurants/krivina",
+        "OSM": [
+            {
+                "place_id": 54893293,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 221662116,
+                "boundingbox": [
+                    "45.2490007",
+                    "45.2491942",
+                    "19.8427107",
+                    "19.8430476"
+                ],
+                "lat": "45.24907695",
+                "lon": "19.842889114890433",
+                "display_name": "9, \u0421\u0440\u0435\u043c\u0441\u043a\u0430, Stari grad, \u041c\u0417 \u041f\u0440\u0432\u0430 \u0432\u043e\u0458\u0432\u043e\u0452\u0430\u043d\u0441\u043a\u0430 \u0431\u0440\u0438\u0433\u0430\u0434\u0430, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21000, Serbia",
+                "class": "building",
+                "type": "yes",
+                "importance": 0.42001
+            }
+        ]
+    },
+    {
+        "Title": "CUBO",
+        "Address": "Strumi\u010dka 16, 21000 Novi Sad",
+        "Torques": 2,
+        "Score": "13",
+        "Review": "In a beautiful location near the Danube and Novi Sad\u2018s favorite promenade \u0160trand, Cubo will accommodate you in their shady garden or pleasant interior. With a wine list that covers Serbian wine production, their menu invites you to stroll through a range of styles and tastes. The long selection of soups at the very beginning confirms this, with an intriguing combination of apples and walnuts in a celery potage, and a convincing consomm\u00e9 with ravioli. We recommend two mousses as an appetizer \u2013 blue cheese with fig jam, or chicken liver with Oxford sauce, and the delicious focaccia goes perfectly with both. This part of the menu also includes burrata with blood orange and deep-fried camembert with cranberries, tuna carpaccio and salmon with pomegranate caviar. Of the dozen types of pizza, Cubo with pork fillet, Rustic and Bolognese are intriguing, and an interesting offer of pasta and risottos. It is not easy to choose in the fish segment and meat specialties. From duck and chicken to cutlets and steaks. We made the right choice with the recommendation from the friendly staff: a touch of Asia with chicken drumsticks in honey, a return to home turf with beef cheeks, potato puree and mushroom ragu, to ribs in a spicy sauce with sauteed vegetables. Finally, with the waiter\u2018s strong recommendation, we chose rich Mozart balls in coffee sauce, and chocolate leaves filled with white chocolate and cashew cream with blueberry sorbet. In three words: pleasant, friendly, and delicious.",
+        "Chef": "Milo\u0161 Veki\u0107",
+        "Phone": "+381 (0) 2 142 1721",
+        "Web site": "http://www.cubonovisad.rs",
+        "Link": "https://rs.gaultmillau.com/en/restaurants/restoran-cubo",
+        "OSM": [
+            {
+                "place_id": 54887198,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 148390459,
+                "boundingbox": [
+                    "45.2391954",
+                    "45.2393668",
+                    "19.8500988",
+                    "19.8503284"
+                ],
+                "lat": "45.2392904",
+                "lon": "19.85020789403001",
+                "display_name": "Cubo, 16, Strumicka, \u041c\u0417 \u041b\u0438\u043c\u0430\u043d, Liman, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21000, Serbia",
+                "class": "amenity",
+                "type": "restaurant",
+                "importance": 0.42001
+            }
+        ]
+    },
+    {
+        "Title": "PETRUS",
+        "Address": "Trg Slobode 4, 21000 Novi Sad",
+        "Torques": 1,
+        "Score": "12.5",
+        "Review": "Petrus is a restaurant in the center of Novi Sad, with a spacious and beautiful garden. Contemporary and comfortable, it rounds off its concept with an equally diverse menu, and a serious list of cocktails, alcoholic drinks, and wine. The menu effectively spans contemporary culinary trends, ranging from modified national standards and international classics to novelties that are highlighted in a special offer. It all starts with a varied offer for breakfast, from classic to special options, with particularly imaginative sandwiches, continued with bruschetta, and followed by cream soups, and the cream soup with steak, spinach, and oyster mushrooms stands out as a novelty. Salads can be a nice introduction to a meal, like caprese served with focaccia, but also a stand\u2013alone dish, like the salad with crispy squid, or a Chef salad with three types of meat. There really is something for everyone in the central part. There is a long list of pastas, risottos and pizzas, fish & chips and perch fillets, as well as an impressive selection of chicken and turkey dishes, Zlatibor u\u0161tipci and gourmet pljeskavica, steaks and burgers. The servings are more than generous, and the service is fast and discreet. Look out for novelties that follow modern trends, the Wellington burger is a creative variation on a familiar theme, while the delicious royal prawn tempura is served with edamame risotto. Desserts are on a separate menu and really deserve special attention.",
+        "Phone": "+381 (0) 6 632 3424",
+        "Web site": "https://petruscaffe.com/",
+        "Link": "https://rs.gaultmillau.com/en/restaurants/petrus-caffe-gallery-bar",
+        "OSM": [
+            {
+                "place_id": 54841997,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 2338043357,
+                "boundingbox": [
+                    "45.254653",
+                    "45.254753",
+                    "19.8459146",
+                    "19.8460146"
+                ],
+                "lat": "45.254703",
+                "lon": "19.8459646",
+                "display_name": "Bistro 0h-24h, 4, \u0422\u0440\u0433 \u0441\u043b\u043e\u0431\u043e\u0434\u0435, Stari grad, \u041c\u0417 \u0421\u0442\u0430\u0440\u0438 \u0433\u0440\u0430\u0434, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21000, Serbia",
+                "class": "amenity",
+                "type": "pub",
+                "importance": 0.42001
+            },
+            {
+                "place_id": 54871367,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 4029633090,
+                "boundingbox": [
+                    "45.2548063",
+                    "45.2549063",
+                    "19.8456102",
+                    "19.8457102"
+                ],
+                "lat": "45.2548563",
+                "lon": "19.8456602",
+                "display_name": "Modena, 4, \u0422\u0440\u0433 \u0441\u043b\u043e\u0431\u043e\u0434\u0435, Stari grad, \u041c\u0417 \u0421\u0442\u0430\u0440\u0438 \u0433\u0440\u0430\u0434, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21000, Serbia",
+                "class": "amenity",
+                "type": "restaurant",
+                "importance": 0.42001
+            }
+        ]
+    },
+    {
+        "Title": "SOKA\u010cE",
+        "Address": "Pavla Papa 11 21001 Novi Sad",
+        "Torques": 1,
+        "Score": "12",
+        "Review": "A colorful and chaotic combination of ethnic motifs and colors, good home cooking and, sometimes, cheerful live music, topped with a huge dose of warm Vojvodina charm. That would be the brief description of Novi Sad restaurant Soka\u010de. Whether in the warmer months you are planning a meal in the lovely patio or in the charming interior, be sure to make a reservation, especially on weekends, because the restaurant has long been a favorite place in Novi Sad. When you sit, the friendly staff will serve you delicious homemade slatko. Start the meal with the famous pepper soup served in interesting pots that are brought to your table with a lid, filled with hot, tasty, and invigorating soup. In the winter months, be sure to order pork aspic - pihtije, lamb sarmica or pie with roasted peppers. The specialties of the house are mostly served for several people, whether it\u2018s pork or lamb leg, stuffed fillet rolled in bacon or pork ribs that are perfectly baked and then coated with a honey\u2013based sauce. The ribs are discreetly sweet, and pieces of pickled onion serve as a good counterpoint to that taste. The series continues with grilled specialties prepared in front of you. There are \u0107evapi in various iterations, as well as pljeskavica, kebabs, sausages and sweetbread. Slow cooked sauerkraut with smoked pork, sarma, gourmet tripes and vine leaf rolls with yoghurt are just some of the local specialties offered by Soka\u010de.",
+        "Phone": "+381 21 662 2007",
+        "Web site": "https://www.sokace.rs/",
+        "Link": "https://rs.gaultmillau.com/en/restaurants/restoran-soka%C4%8Ce",
+        "OSM": [
+            {
+                "place_id": 54858342,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 4909216225,
+                "boundingbox": [
+                    "45.2547421",
+                    "45.2548421",
+                    "19.8393979",
+                    "19.8394979"
+                ],
+                "lat": "45.2547921",
+                "lon": "19.8394479",
+                "display_name": "\u0421\u043e\u043a\u0430\u0447\u0435, 11, Pavla Papa, Rotkvarija, \u041c\u0417 \u0416\u0438\u0442\u043d\u0438 \u0442\u0440\u0433, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21000, Serbia",
+                "class": "amenity",
+                "type": "restaurant",
+                "importance": 0.51001
+            },
+            {
+                "place_id": 342874253,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 293284498,
+                "boundingbox": [
+                    "45.25463",
+                    "45.2548726",
+                    "19.8392134",
+                    "19.8395797"
+                ],
+                "lat": "45.2547828",
+                "lon": "19.83940663596112",
+                "display_name": "11, Pavla Papa, Rotkvarija, \u041c\u0417 \u0416\u0438\u0442\u043d\u0438 \u0442\u0440\u0433, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21101, Serbia",
+                "class": "building",
+                "type": "house",
+                "importance": 0.51001
+            }
+        ]
+    },
+    {
+        "Title": "VIDA",
+        "Address": "Rumena\u010dka 148a, 21000 Novi Sad",
+        "Torques": 0,
+        "Score": 0,
+        "Review": "Bistro Vida is a colorful place where dedication and creativity are already visible in the part dedicated to coffee. They are especially famous for their macchiato served in a sweet cone covered in chocolate. Fresh ingredients, homemade bread, and sauces are carefully combined on the plate both at breakfast time and at brunch or lunch time. In the breakfast section there are homemade granola bars, sandwiches, and a variety of dishes with eggs, while the brunch and lunch offer is expanded with delicious meal salads, tortillas, and healthy bowls, with vegan or meat options. One of their specialties is the Cancun bowl, which includes spicy Mexican meatballs, edamame, roasted bananas, and a variety of fresh vegetables, seasoned with a homemade sauce. American pancakes are an indispensable part of the offer, especially pancakes with flavor of Japanese matcha tea.",
+        "Phone": "+381 21 661 1246",
+        "Link": "https://rs.gaultmillau.com/en/restaurants/vida",
+        "OSM": [
+            {
+                "place_id": 54837887,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 386343249,
+                "boundingbox": [
+                    "45.2635543",
+                    "45.264413",
+                    "19.8175007",
+                    "19.8183985"
+                ],
+                "lat": "45.26397145",
+                "lon": "19.81780899489378",
+                "display_name": "148a, Rumenacka, Banatic, \u041c\u0417 \u041e\u043c\u0430\u043b\u0434\u0438\u043d\u0441\u043a\u0438 \u043f\u043e\u043a\u0440\u0435\u0442, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21113, Serbia",
+                "class": "building",
+                "type": "apartments",
+                "importance": 0.31001
+            }
+        ]
+    },
+    {
+        "Title": "KU\u0106A MALA",
+        "Address": "Dunavska 17, 21000 Novi Sad",
+        "Torques": 0,
+        "Score": 0,
+        "Review": "Hidden in an alley in the center of Novi Sad, this pizzeria justifies its name with its homely atmosphere. The unique interior attracts attention, and the garden is perfect for enjoying a hearty breakfast. Authenticity is also reflected in the offer of almost 30 pizzas with unusual names and the most diverse ingredients. The pizza that bears the name of the place, with as many as six different cured meat products, is a real feast! The originality of their pizzas comes to the fore with the use of ingredients such as peanuts, prunes and walnuts, pineapple, pumpkin butter or pears. Ku\u0107a mala also offers a rich meal of salads, meatballs, lasagna, and pasta. The dessert menu revives the tradition of Vojvodina with dumplings, potato dough dumplings with plum filling, fruit pies and juicy pancakes.",
+        "Phone": "+381 21 301 5693",
+        "Web site": "https://kucamalanovisad.business.site/?utm_source=gmb&utm_medium=referral",
+        "Link": "https://rs.gaultmillau.com/en/restaurants/ku%C4%86a-mala",
+        "OSM": [
+            {
+                "place_id": 54908340,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 305450402,
+                "boundingbox": [
+                    "45.243845",
+                    "45.2441044",
+                    "19.7692817",
+                    "19.7696516"
+                ],
+                "lat": "45.243993849999995",
+                "lon": "19.76949913778506",
+                "display_name": "17, Dunavska, Veternik, \u041c\u0417 \u0412\u0435\u0442\u0435\u0440\u043d\u0438\u043a, \u0412\u0435\u0442\u0435\u0440\u043d\u0438\u043a, City of Novi Sad, South Backa Administrative District, Vojvodina, 21000, Serbia",
+                "class": "building",
+                "type": "house",
+                "importance": 0.5300100000000001
+            }
+        ]
+    },
+    {
+        "Title": "TRI PETICE",
+        "Address": "\u017ditni trg 5, 21000 Novi Sad",
+        "Torques": 0,
+        "Score": 0,
+        "Review": "This charming place with a local gastro-bar concept has been providing exceptional quality for years. A short and authentic menu and a good selection of drinks at the bar are promising at first glance. Cocktails are a mix of international classics and signature cocktails made with soul. Food is like that - high quality, interesting and tasty. To start, we recommend pate or terrine, baked eggplant in bechamel sauce accented with garlic chips or delicious tacos with beef tongue, salsa and spicy mayonnaise. They have homemade soup, cream soup or French onion soup for those who want to warm up. In the selection of main dishes, we highlight pork chop with apple and sage sauce, as well as excellent beef tongue.",
+        "Closing days": "Sunday",
+        "Phone": "+381 21 382 5338",
+        "Web site": "https://www.tripetice.rs/",
+        "Link": "https://rs.gaultmillau.com/en/restaurants/tri-petice",
+        "OSM": [
+            {
+                "place_id": 54857754,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 223011375,
+                "boundingbox": [
+                    "45.2577848",
+                    "45.2586676",
+                    "19.8380655",
+                    "19.8385066"
+                ],
+                "lat": "45.2582958",
+                "lon": "19.838334",
+                "display_name": "Zitni Trg, Rotkvarija, \u041c\u0417 \u0416\u0438\u0442\u043d\u0438 \u0442\u0440\u0433, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21000, Serbia",
+                "class": "highway",
+                "type": "residential",
+                "importance": 0.5100099999999999
+            },
+            {
+                "place_id": 54860572,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 147775624,
+                "boundingbox": [
+                    "45.2587815",
+                    "45.2625862",
+                    "19.8342671",
+                    "19.841719"
+                ],
+                "lat": "45.2619834",
+                "lon": "19.837629",
+                "display_name": "Zitni Trg, Rotkvarija, \u041c\u0417 \u0421\u0430\u0432\u0430 \u041a\u043e\u0432\u0430\u0447\u0435\u0432\u0438\u045b, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21000, Serbia",
+                "class": "highway",
+                "type": "footway",
+                "importance": 0.4850099999999999
+            },
+            {
+                "place_id": 54860222,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 293305524,
+                "boundingbox": [
+                    "45.2582947",
+                    "45.2584399",
+                    "19.8372491",
+                    "19.8375921"
+                ],
+                "lat": "45.25837025",
+                "lon": "19.83739964540019",
+                "display_name": "5, Zitni trg, Rotkvarija, \u041c\u0417 \u0416\u0438\u0442\u043d\u0438 \u0442\u0440\u0433, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21101, Serbia",
+                "class": "building",
+                "type": "house",
+                "importance": 0.41000999999999993
+            }
+        ]
+    },
+    {
+        "Title": "FISH&ZELENI\u0160",
+        "Address": "Skerli\u0107eva 2, 21000 Novi Sad",
+        "Torques": 2,
+        "Score": "14.5",
+        "Review": "Pleasantly designed ambience and Mediterranean taste welcome you to this restaurant with a cute name. Although in the center of Novi Sad, Fish will instantly transport you to the shores of the Mediterranean with its details and warm colors and with its cuisine based on sea fish and local vegetables. Although there are a few meat dishes on the menu, such as turkey with mlinci, and rolled lamb on celeriac puree, the focus is on the flavors of the sea. We recommend a mild cream soup of vegetables and fresh sea fish to start, followed by some of the imaginative small plates ideal for sharing \u2013 sea fish pate with red onion jam, veal lahmajun brings a breath of the Orient, and refreshing beet tzatziki from. This section also includes hummus, zucchini croquettes, prawns in kaday\u0131f, salmon and tuna carpaccio, crispy cheese rolls, and grilled cheese with seasonal fruit jam. Pasta and risotto are in a separate segment, and homemade tagliatelle with seafood is one of the richest we have tried on all coasts. Black and white risotto round off this segment of the menu. From the selection of fish, we chose tuna in red pepper, with an attractive presentation, as well as perch from Tisa. The well\u2013written wine list is based on Serbia, the region, and Europe, with selected recommendations from the sommelier. A selection of homemade breads is a great accompaniment, and the highlights of the dessert list are the parsnip cream and the attractive mille-feuille with unusual dark crust.",
+        "Chef": "Marko Bulatovi\u0107",
+        "Phone": "+381 (0) 2 145 2000",
+        "Web site": "https://www.fishizelenis.com/",
+        "Link": "https://rs.gaultmillau.com/en/restaurants/fish-i-zelenis",
+        "OSM": [
+            {
+                "place_id": 54841170,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 8229047726,
+                "boundingbox": [
+                    "45.2586426",
+                    "45.2587426",
+                    "19.8461752",
+                    "19.8462752"
+                ],
+                "lat": "45.2586926",
+                "lon": "19.8462252",
+                "display_name": "Fish&Zelenish, 2, Skerliceva, Podbara, \u041c\u0417 \u041f\u043e\u0434\u0431\u0430\u0440\u0430, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21000, Serbia",
+                "class": "amenity",
+                "type": "restaurant",
+                "importance": 0.42001
+            },
+            {
+                "place_id": 54824316,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 3008800219,
+                "boundingbox": [
+                    "45.2586356",
+                    "45.2587356",
+                    "19.846186",
+                    "19.846286"
+                ],
+                "lat": "45.2586856",
+                "lon": "19.846236",
+                "display_name": "2, Skerliceva, Podbara, \u041c\u0417 \u041f\u043e\u0434\u0431\u0430\u0440\u0430, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21000, Serbia",
+                "class": "place",
+                "type": "house",
+                "importance": 0.42001
+            },
+            {
+                "place_id": 54822456,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 3008800492,
+                "boundingbox": [
+                    "45.2586911",
+                    "45.2587911",
+                    "19.8462796",
+                    "19.8463796"
+                ],
+                "lat": "45.2587411",
+                "lon": "19.8463296",
+                "display_name": "2a, Skerliceva, Podbara, \u041c\u0417 \u041f\u043e\u0434\u0431\u0430\u0440\u0430, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21000, Serbia",
+                "class": "place",
+                "type": "house",
+                "importance": 0.41000999999999993
+            }
+        ]
+    },
+    {
+        "Title": "PIKNIK",
+        "Address": "Ribarsko ostrvo bb, 21000 Novi Sad",
+        "Torques": 1,
+        "Score": "12",
+        "Review": "The right place for an authentic Vojvodina picnic is on Fisherman\u2018s Island, on the banks of the Danube. The Piknik restaurant is equally enjoyable when sitting in the spacious garden under the canopy on warm days, as well as inside, in an environment with lots of wood and a view of the river. The menu is a fun walk across Vojvodina, and along the way you will meet Namigu\u0161a and \u0160izika, Varo\u0161anka and Damica, which are just some of the lovely names on the menu. Mother\u2018s clear duck soup will invigorate you, as well as krema\u0161ica \u2013 a creamy veal ragout stew, followed by the delicious local goose pate and unusual crackling mousse with sesame and cream cheese. The proximity of the river calls for fish, so there are catfish and carp, but also perkelt, trout en papillote, squid, and salmon. In the meat section, Mira\u017ed\u017eika - tasty chicken liver gentle fried with grilled apples and cranberries, on celery puree, and irresistibly delicious ribs, beef cheeks, pig shank, and pork medallions in their own juice. The gastronomic puzzle of Piknik also includes rolls with steak, gratinated pasta with zucchini, and the section of grilled food, with baby spinach salad. In the sweet section, check out why Zaovina vanilla slice with raspberries became famous, whether Snajka\u2018s loating island is like grandma\u2018s, and how delicious are Jetrva\u2018s pancakes filled with hazelnuts, baked in milk and topped with vanilla cream. The service is fast, the atmosphere is casual and cheerful.",
+        "Chef": "Aleksandar \u0160e\u010di\u0107",
+        "Phone": "+381 69 174 5645",
+        "Web site": "https://piknik.rs/",
+        "Link": "https://rs.gaultmillau.com/en/restaurants/restoran-bar-piknik",
+        "OSM": [
+            {
+                "place_id": 54879250,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 974017394,
+                "boundingbox": [
+                    "45.2323896",
+                    "45.2353108",
+                    "19.8259291",
+                    "19.8276417"
+                ],
+                "lat": "45.234023",
+                "lon": "19.8263066",
+                "display_name": "Ribarsko ostrvo, \u041c\u0417 \u041e\u0441\u0442\u0440\u0432\u043e, Liman, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21000, Serbia",
+                "class": "highway",
+                "type": "residential",
+                "importance": 0.6100099999999999
+            }
+        ]
+    },
+    {
+        "Title": "LOFT DOWNTOWN",
+        "Address": "Njego\u0161eva 2, 21000 Novi Sad",
+        "Torques": 0,
+        "Score": 0,
+        "Review": "Loft is a place that offers quality coffee and delicious food, whether it\u2018s a quick breakfast, a relaxing lunch, or an evening out. The menu has everything you need to start or end your day \u2013 from specialty coffee that goes perfectly with Belgian aromatic waffles, chestnut cake, or raspberry-coconut cake, to savory snacks that go well with their craft beer. Fresh and fine pastries are available all day, and there is a wide selection for lunch or dinner. From creamy risotto with chicken and vegetables, to juicy marinated rump steak, or nutritious bowls with vegetables, grains, dressing, and options with chicken or falafel. At Loft, you can rent a bike, and you can choose whether to refresh and treat yourself before or after the ride.",
+        "Phone": "+381 60 070 1171",
+        "Web site": "https://loftcafe.rs/",
+        "Link": "https://rs.gaultmillau.com/en/restaurants/loft-coffee---food-bar",
+        "OSM": [
+            {
+                "place_id": 54864086,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 2974542693,
+                "boundingbox": [
+                    "45.2556362",
+                    "45.2557362",
+                    "19.8450159",
+                    "19.8451159"
+                ],
+                "lat": "45.2556862",
+                "lon": "19.8450659",
+                "display_name": "2, Njego\u0161eva, Stari grad, \u041c\u0417 \u0421\u0442\u0430\u0440\u0438 \u0433\u0440\u0430\u0434, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21101, Serbia",
+                "class": "place",
+                "type": "house",
+                "importance": 0.42001
+            },
+            {
+                "place_id": 54904443,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 1149369517,
+                "boundingbox": [
+                    "45.2382791",
+                    "45.2383767",
+                    "19.7035278",
+                    "19.7036902"
+                ],
+                "lat": "45.23834015",
+                "lon": "19.70359938956673",
+                "display_name": "2, Njegoseva, \u041c\u0417 \u0424\u0443\u0442\u043e\u0433, \u0424\u0443\u0442\u043e\u0433, Futog, City of Novi Sad, South Backa Administrative District, Vojvodina, 21410, Serbia",
+                "class": "building",
+                "type": "yes",
+                "importance": 0.31001
+            },
+            {
+                "place_id": 348720907,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 1266280401,
+                "boundingbox": [
+                    "45.3058026",
+                    "45.3058954",
+                    "19.9288514",
+                    "19.9289836"
+                ],
+                "lat": "45.30584895",
+                "lon": "19.928917491440664",
+                "display_name": "2, Njegoseva, \u041c\u0417 \u041a\u0430\u045b, \u041a\u0430\u045b, Ka\u0107, City of Novi Sad, South Backa Administrative District, Vojvodina, 21241, Serbia",
+                "class": "building",
+                "type": "yes",
+                "importance": 0.31001
+            },
+            {
+                "place_id": 348720908,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 1266280402,
+                "boundingbox": [
+                    "45.3058697",
+                    "45.305958",
+                    "19.9289047",
+                    "19.9290299"
+                ],
+                "lat": "45.3059138",
+                "lon": "19.928967303414424",
+                "display_name": "2a, Njegoseva, \u041c\u0417 \u041a\u0430\u045b, \u041a\u0430\u045b, Ka\u0107, City of Novi Sad, South Backa Administrative District, Vojvodina, 21241, Serbia",
+                "class": "building",
+                "type": "yes",
+                "importance": 0.30001
+            }
+        ]
+    },
+    {
+        "Title": "PIVNICA GUSAN",
+        "Address": "Zmaj Jovina 4, 21000 Novi Sad",
+        "Torques": 0,
+        "Score": 0,
+        "Review": "Located on several levels, in a charming passage in the city center, the Gusan pub exudes the spirit of tradition. The homely offer starts with breakfast, but what sets this pub apart is its commitment to home cooking. Every day, there are home cooked dishes on offer, such as Vojvodina goulash with noodles, real home\u2013made beans with dried meat, and there are also sarma, stuffed peppers, or fried liver. For those who like traditional kafana dishes, there are tripes or pig\u2018s trotter in sauce. In addition to home cooked dishes, Gusan offers a wide selection of grilled meats, classics such as Kara\u0111or\u0111e or Wiener Schnitzel, as well as vegan schnitzel and vegetarian pljeskavica. In the spirit of Vojvodina tradition, sweeten yourself with dumplings, pancakes, or deep-fried fragrant apples.",
+        "Phone": "+381 (0) 2 142 5570",
+        "Web site": "https://pivnicagusan.rs",
+        "Link": "https://rs.gaultmillau.com/en/restaurants/pivnica-gusan",
+        "OSM": [
+            {
+                "place_id": 54824262,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 2578061691,
+                "boundingbox": [
+                    "45.2554505",
+                    "45.2555505",
+                    "19.8468019",
+                    "19.8469019"
+                ],
+                "lat": "45.2555005",
+                "lon": "19.8468519",
+                "display_name": "\u0413\u0443\u0441\u0430\u043d, 4, Zmaj Jovina, Stari grad, \u041c\u0417 \u0421\u0442\u0430\u0440\u0438 \u0433\u0440\u0430\u0434, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21101, Serbia",
+                "class": "amenity",
+                "type": "pub",
+                "importance": 0.51001
+            },
+            {
+                "place_id": 54825113,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 2578059652,
+                "boundingbox": [
+                    "45.2555393",
+                    "45.2556393",
+                    "19.8465552",
+                    "19.8466552"
+                ],
+                "lat": "45.2555893",
+                "lon": "19.8466052",
+                "display_name": "\u041c\u0430\u0448\u0430, 4, Zmaj Jovina, Stari grad, \u041c\u0417 \u0421\u0442\u0430\u0440\u0438 \u0433\u0440\u0430\u0434, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21101, Serbia",
+                "class": "amenity",
+                "type": "restaurant",
+                "importance": 0.51001
+            },
+            {
+                "place_id": 54863952,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 132889632,
+                "boundingbox": [
+                    "45.2553097",
+                    "45.2557395",
+                    "19.8463204",
+                    "19.8469301"
+                ],
+                "lat": "45.255527",
+                "lon": "19.846459661418713",
+                "display_name": "4, Zmaj Jovina, Stari grad, \u041c\u0417 \u0421\u0442\u0430\u0440\u0438 \u0433\u0440\u0430\u0434, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21101, Serbia",
+                "class": "building",
+                "type": "commercial",
+                "importance": 0.51001
+            },
+            {
+                "place_id": 54853549,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 442706533,
+                "boundingbox": [
+                    "45.2554787",
+                    "45.2555787",
+                    "19.8463235",
+                    "19.8464235"
+                ],
+                "lat": "45.2555287",
+                "lon": "19.8463735",
+                "display_name": "\u0411\u0435\u0441\u0435\u0434\u0430, 4, Zmaj Jovina, Stari grad, \u041c\u0417 \u0421\u0442\u0430\u0440\u0438 \u0433\u0440\u0430\u0434, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21101, Serbia",
+                "class": "shop",
+                "type": "books",
+                "importance": 0.51001
+            },
+            {
+                "place_id": 54872323,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 1149369534,
+                "boundingbox": [
+                    "45.2387168",
+                    "45.238911",
+                    "19.7039633",
+                    "19.7042386"
+                ],
+                "lat": "45.2387839",
+                "lon": "19.704036811219723",
+                "display_name": "4, Zmaj Jovina, \u041c\u0417 \u0424\u0443\u0442\u043e\u0433, \u0424\u0443\u0442\u043e\u0433, Futog, City of Novi Sad, South Backa Administrative District, Vojvodina, 21410, Serbia",
+                "class": "building",
+                "type": "yes",
+                "importance": 0.51001
+            },
+            {
+                "place_id": 54896515,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 320531343,
+                "boundingbox": [
+                    "45.222287",
+                    "45.2225283",
+                    "19.8436251",
+                    "19.8439904"
+                ],
+                "lat": "45.22239865",
+                "lon": "19.843938325660304",
+                "display_name": "4, Zmaj Jovina, \u041c\u0417 \u0421\u0440\u0435\u043c\u0441\u043a\u0430 \u041a\u0430\u043c\u0435\u043d\u0438\u0446\u0430, \u0421\u0440\u0435\u043c\u0441\u043a\u0430 \u041a\u0430\u043c\u0435\u043d\u0438\u0446\u0430, Sremska Kamenica, City of Novi Sad, South Backa Administrative District, Vojvodina, 21208, Serbia",
+                "class": "building",
+                "type": "house",
+                "importance": 0.51001
+            }
+        ]
+    },
+    {
+        "Title": "\u0160E\u0106ERNEMA",
+        "Address": "Petra Drap\u0161ina 57, 21000 Novi Sad",
+        "Torques": 0,
+        "Score": 0,
+        "Review": "The name of the pastry shop \u2013 \u0160e\u0107ernema refers to sweets that delight in taste, and at the same time are free of gluten, lactose and added sugar. Their unique and wide range of treats caters to different dietary needs and tastes. Petit fours are ideal if you would like to try more flavors \u2013 sour cherry volcano, chocolate punch, mocha, bayadere, malaga (raisin) and mignon are just some of the suggestions. Cakes are distinguished by original combinations that are arranged in layers \u2013 nuts and dates, milk cream made from nuts and fruit, coconut, or chocolate... Energy bars are perfect for a snack, treats are accompanied by various drinks, and their products are popular for take away \u2013 peanut butter and Zdravi\u0107, cream made from organic cocoa, hazelnut, agave, and stevia.",
+        "Phone": "+381 65 356 6127",
+        "Link": "https://rs.gaultmillau.com/en/restaurants/se%C4%86ernema",
+        "OSM": [
+            {
+                "place_id": 54856091,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 222222488,
+                "boundingbox": [
+                    "45.2487882",
+                    "45.2491497",
+                    "19.8392461",
+                    "19.8396305"
+                ],
+                "lat": "45.2489563",
+                "lon": "19.839415984633256",
+                "display_name": "57, Petra Drapsina, Stari grad, \u041c\u0417 \u041f\u0440\u0432\u0430 \u0432\u043e\u0458\u0432\u043e\u0452\u0430\u043d\u0441\u043a\u0430 \u0431\u0440\u0438\u0433\u0430\u0434\u0430, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21000, Serbia",
+                "class": "building",
+                "type": "yes",
+                "importance": 0.52001
+            }
+        ]
+    },
+    {
+        "Title": "SUSHI FRESH",
+        "Address": "Maksima Gorkog 1a, 21000 Novi Sad",
+        "Torques": 0,
+        "Score": 0,
+        "Review": "Although limited in space, this place offers everything you need for an authentic Japanese experience. From rich miso soup to delicious spring rolls, as well as the inevitable okonomiyaki \u2013 a savory pancake made with vegetables, bacon, and pork. The sushi offer is divided into sections that offer everything from classic nigiri and maki rolls to premium and specialty rolls. Onigiri with salmon and tuna are a simple and delicious option. Among the specialty rolls, the Double Tempura Roll stands out for its crispness. Sets, from smaller ones to real feasts with over 50 different pieces, are a great choice to try more flavors. Mitarashi dango, a Japanese sticky rice flour dessert with caramel sauce and chocolate ganache, brings an authentic flavor note.",
+        "Phone": "+381 63 833 6445",
+        "Web site": "https://sushifresh.rs",
+        "Link": "https://rs.gaultmillau.com/en/restaurants/sushi-fresh",
+        "OSM": [
+            {
+                "place_id": 54855243,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 2989225116,
+                "boundingbox": [
+                    "45.2485919",
+                    "45.2486919",
+                    "19.8412073",
+                    "19.8413073"
+                ],
+                "lat": "45.2486419",
+                "lon": "19.8412573",
+                "display_name": "Amigos Chicken Wings, 1a, Maksima Gorkog, Stari grad, \u041c\u0417 \u041f\u0440\u0432\u0430 \u0432\u043e\u0458\u0432\u043e\u0452\u0430\u043d\u0441\u043a\u0430 \u0431\u0440\u0438\u0433\u0430\u0434\u0430, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21101, Serbia",
+                "class": "amenity",
+                "type": "fast_food",
+                "importance": 0.51001
+            }
+        ]
+    },
+    {
+        "Title": "SAVOCA",
+        "Address": "Bulevar oslobo\u0111enja 41, 21000 Novi Sad",
+        "Torques": 1,
+        "Score": "11.5",
+        "Review": "Located on a key Novi Sad boulevard, Savoca consistently and convincingly represents Italian cuisine with convenient local variations. The pleasant and comfortable interior, and the garden conveniently sheltered from the busy street, are a perfectly adequate environment to indulge in the local specialties. We recommend Savoca bruschetta, where a fine mix of three types of bruschetta arrives on the board. And pizzas, pizzas are made according to the original recipe from Caputo zero\u2013zero flour, baked in wood\u2013fired oven and served in several sizes. A selection of some thirty pizzas will really satisfy all tastes. The dough is delicious, abundantly covered with ingredients, and the specials are pizza with seven types of cheese, Gamberetti, Golden with truffles, or Porto Montenegro with Njegu\u0161 prosciutto and kajmak. We recommend the baked dishes with chicken and turkey, served in earthenware dishes. Among the hand\u2013made pastas, the hearty penne Al Cardinale with grilled veal steak and sun\u2013 dried tomatoes, and the gnocchi Mille Sapore with prosciutto, wild mushrooms and pesto stand out, and there are also attractive ravioli and risotto and lasagna. As for fish, they have trout, squid, tuna steak and salmon in hollandaise sauce, while steak and pork fillet Perfetto, stuffed with three types of cheese and almonds, are the highlights of the meat part of the offer. The wine list relies on wines from Italy and Serbia, and the selection of desserts relies on Tito\u2018s vanilla slice and tiramisu.",
+        "Phone": "+381 (0) 6 973 6736",
+        "Web site": "https://savocapicerija.rs",
+        "Link": "https://rs.gaultmillau.com/en/restaurants/restaurant---pizzeria-savoca",
+        "OSM": [
+            {
+                "place_id": 54835486,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 4034814190,
+                "boundingbox": [
+                    "45.2599446",
+                    "45.2600446",
+                    "19.8329367",
+                    "19.8330367"
+                ],
+                "lat": "45.2599946",
+                "lon": "19.8329867",
+                "display_name": "Savoca, 41, Bulevar oslobodjenja, Rotkvarija, \u041c\u0417 \u0416\u0438\u0442\u043d\u0438 \u0442\u0440\u0433, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21101, Serbia",
+                "class": "amenity",
+                "type": "restaurant",
+                "importance": 0.41000999999999993
+            },
+            {
+                "place_id": 54857198,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 4036982589,
+                "boundingbox": [
+                    "45.2601185",
+                    "45.2602185",
+                    "19.832876",
+                    "19.832976"
+                ],
+                "lat": "45.2601685",
+                "lon": "19.832926",
+                "display_name": "Benu Apoteka, 41, Bulevar oslobodjenja, Rotkvarija, \u041c\u0417 \u0416\u0438\u0442\u043d\u0438 \u0442\u0440\u0433, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21101, Serbia",
+                "class": "amenity",
+                "type": "pharmacy",
+                "importance": 0.41000999999999993
+            },
+            {
+                "place_id": 54859577,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 4034872389,
+                "boundingbox": [
+                    "45.260018",
+                    "45.260118",
+                    "19.8329316",
+                    "19.8330316"
+                ],
+                "lat": "45.260068",
+                "lon": "19.8329816",
+                "display_name": "Hleb i Kifle, 41, Bulevar oslobodjenja, Rotkvarija, \u041c\u0417 \u0416\u0438\u0442\u043d\u0438 \u0442\u0440\u0433, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21101, Serbia",
+                "class": "shop",
+                "type": "bakery",
+                "importance": 0.41000999999999993
+            },
+            {
+                "place_id": 54865661,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 2967426013,
+                "boundingbox": [
+                    "45.2599853",
+                    "45.2600853",
+                    "19.8330041",
+                    "19.8331041"
+                ],
+                "lat": "45.2600353",
+                "lon": "19.8330541",
+                "display_name": "41, Bulevar oslobodjenja, Rotkvarija, \u041c\u0417 \u0416\u0438\u0442\u043d\u0438 \u0442\u0440\u0433, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21101, Serbia",
+                "class": "place",
+                "type": "house",
+                "importance": 0.41000999999999993
+            }
+        ]
+    },
+    {
+        "Title": "PROJECT 72 WINE&DELI",
+        "Address": "Kosovska 15, 21000 Novi Sad",
+        "Torques": 3,
+        "Score": "15",
+        "Review": "Seductive, creative, informal, and serious, local and global, Project 72 is an imaginative gastronomic project that deserves attention. It is far enough from the center of Novi Sad to be away from the hustle and bustle, and you can easily walk to it. A nice garden and an even nicer interior with charming details, direct and friendly staff who know how to guide you through the offer, and a carefully designed wine list create a unique gastronomic experience. We recommend that you choose several items from each segment. The portions here are designed for sharing, so one segment of the menu is called Deli & Deli. Duck liver p\u00e2t\u00e9 is an absolute must for starters, with an intense and finely balanced taste, served with onion jam and raspberry sauce. There is also crackling mousse, and a truly unusual ajvar ice cream, beef tartare in apple smoke with egg yolk gel and homemade pickle. To continue the playfulness, we suggest ravioli filled with game ragu and, for example, rolls with cheese and honey. On the main stage, perfectly tender duck breasts reign supreme, served with carrot puree and topped with juniper sauce. There is also pressed lamb with pita bread, as well as beef tongue with Swiss chard, rib eye steak cured in fat and a daily offer of local fish. The lucid gastronomic circle is rounded by desserts, and we sincerely recommend the parsnip cream. Playful and diverse, this restaurant offers a very enjoyable Wine and Deli experience.",
+        "Chef": "Dejan Popovi\u0107",
+        "Phone": "+381 21 657 2720",
+        "Web site": "https://project72.rs/",
+        "Link": "https://rs.gaultmillau.com/en/restaurants/project-72-creative-local-cusine",
+        "OSM": [
+            {
+                "place_id": 54865317,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 5821294054,
+                "boundingbox": [
+                    "45.2596958",
+                    "45.2597958",
+                    "19.8493482",
+                    "19.8494482"
+                ],
+                "lat": "45.2597458",
+                "lon": "19.8493982",
+                "display_name": "Project 72 Wine & Deli, 15a, Kosovska, Podbara, \u041c\u0417 \u041f\u043e\u0434\u0431\u0430\u0440\u0430, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21000, Serbia",
+                "class": "amenity",
+                "type": "restaurant",
+                "importance": 0.52001
+            }
+        ]
+    },
+    {
+        "Title": "KAFE RESTORAN MA\u0160A",
+        "Address": "Zmaj Jovina 4, 21000 Novi Sad",
+        "Torques": 0,
+        "Score": 0,
+        "Review": "In the heart of Novi Sad, on the main street, Ma\u0161a restaurant offers more than just a meal, it is a gathering place for guests of all generations. With a garden on the promenade itself and a hidden inner garden, a large indoor space inspired by a medieval sailing ship, Ma\u0161a is special at any time of the day. Breakfast is a real treasure of flavors \u2013 from different types of scrambled eggs to French or English breakfast. If you are yearning for a hearty meal, Ma\u0161a offers powerful dry\u2013aged burgers, burgers with shredded beef, a variety of salads, succulent pizzas, Italian pasta, delicious barbecue, all the way to lean and vegetarian dishes. The restaurant is also recognized for its impressive range of unique desserts, from cakes with Belgian chocolate, to pies, baklava to fruit cups and pancakes.",
+        "Phone": "+381 (0) 2 145 1241",
+        "Web site": "https://www.masha.rs/",
+        "Link": "https://rs.gaultmillau.com/en/restaurants/masa-%E2%80%93-kafe-restoran",
+        "OSM": [
+            {
+                "place_id": 54824262,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 2578061691,
+                "boundingbox": [
+                    "45.2554505",
+                    "45.2555505",
+                    "19.8468019",
+                    "19.8469019"
+                ],
+                "lat": "45.2555005",
+                "lon": "19.8468519",
+                "display_name": "\u0413\u0443\u0441\u0430\u043d, 4, Zmaj Jovina, Stari grad, \u041c\u0417 \u0421\u0442\u0430\u0440\u0438 \u0433\u0440\u0430\u0434, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21101, Serbia",
+                "class": "amenity",
+                "type": "pub",
+                "importance": 0.51001
+            },
+            {
+                "place_id": 54825113,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 2578059652,
+                "boundingbox": [
+                    "45.2555393",
+                    "45.2556393",
+                    "19.8465552",
+                    "19.8466552"
+                ],
+                "lat": "45.2555893",
+                "lon": "19.8466052",
+                "display_name": "\u041c\u0430\u0448\u0430, 4, Zmaj Jovina, Stari grad, \u041c\u0417 \u0421\u0442\u0430\u0440\u0438 \u0433\u0440\u0430\u0434, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21101, Serbia",
+                "class": "amenity",
+                "type": "restaurant",
+                "importance": 0.51001
+            },
+            {
+                "place_id": 54863952,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 132889632,
+                "boundingbox": [
+                    "45.2553097",
+                    "45.2557395",
+                    "19.8463204",
+                    "19.8469301"
+                ],
+                "lat": "45.255527",
+                "lon": "19.846459661418713",
+                "display_name": "4, Zmaj Jovina, Stari grad, \u041c\u0417 \u0421\u0442\u0430\u0440\u0438 \u0433\u0440\u0430\u0434, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21101, Serbia",
+                "class": "building",
+                "type": "commercial",
+                "importance": 0.51001
+            },
+            {
+                "place_id": 54853549,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 442706533,
+                "boundingbox": [
+                    "45.2554787",
+                    "45.2555787",
+                    "19.8463235",
+                    "19.8464235"
+                ],
+                "lat": "45.2555287",
+                "lon": "19.8463735",
+                "display_name": "\u0411\u0435\u0441\u0435\u0434\u0430, 4, Zmaj Jovina, Stari grad, \u041c\u0417 \u0421\u0442\u0430\u0440\u0438 \u0433\u0440\u0430\u0434, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21101, Serbia",
+                "class": "shop",
+                "type": "books",
+                "importance": 0.51001
+            },
+            {
+                "place_id": 54872323,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 1149369534,
+                "boundingbox": [
+                    "45.2387168",
+                    "45.238911",
+                    "19.7039633",
+                    "19.7042386"
+                ],
+                "lat": "45.2387839",
+                "lon": "19.704036811219723",
+                "display_name": "4, Zmaj Jovina, \u041c\u0417 \u0424\u0443\u0442\u043e\u0433, \u0424\u0443\u0442\u043e\u0433, Futog, City of Novi Sad, South Backa Administrative District, Vojvodina, 21410, Serbia",
+                "class": "building",
+                "type": "yes",
+                "importance": 0.51001
+            },
+            {
+                "place_id": 54896515,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 320531343,
+                "boundingbox": [
+                    "45.222287",
+                    "45.2225283",
+                    "19.8436251",
+                    "19.8439904"
+                ],
+                "lat": "45.22239865",
+                "lon": "19.843938325660304",
+                "display_name": "4, Zmaj Jovina, \u041c\u0417 \u0421\u0440\u0435\u043c\u0441\u043a\u0430 \u041a\u0430\u043c\u0435\u043d\u0438\u0446\u0430, \u0421\u0440\u0435\u043c\u0441\u043a\u0430 \u041a\u0430\u043c\u0435\u043d\u0438\u0446\u0430, Sremska Kamenica, City of Novi Sad, South Backa Administrative District, Vojvodina, 21208, Serbia",
+                "class": "building",
+                "type": "house",
+                "importance": 0.51001
+            }
+        ]
+    },
+    {
+        "Title": "RESTORAN VELIKI",
+        "Address": "Nikole Pa\u0161i\u0107a 24, 21104 Novi Sad",
+        "Torques": 1,
+        "Score": "12",
+        "Review": "Near the Novi Sad pedestrian zone, there is a restaurant that is a separate part of the hotel at the same address. With an interesting interior and a lively atmosphere, the menu adequately represents Vojvodina cuisine with all the culinary influences and styles of the former Austro\u2013Hungarian Empire. For starters, homemade soup with noodles, followed by local cheeses and the famous meat delicacies \u2013 sausage, liver, bacon, and dried pork fillet. Then some of the excellent home\u2013made pasta, and a meal salad, such as spinach and mushrooms, or beetroot and goat cream cheese, zucchini with chicken and cranberries, or goat cheese in cornflakes, are a good choice. For the main course, juicy beef p\u00f6rk\u00f6lt, or Hortob\u00e1gy pork stew with spicy sausage and dumplings, Slovak and Debrecen sausages, smoked trout with potato salad, turkey in sour cherry sauce, imperial ribs, and meatballs with potato stew. Among the seasonal specialties, rolled lamb ribs, duck on sweet potato puree, Wiener schnitzel and chicken liver p\u00e2t\u00e9 are excellent choices for colder weather. Snacks go down easily with wines from Vojvodina, and a good selection of rakijas is a great way to whet your appetite. Desserts are great: floating island served in a jar, excellent vanilla slice, perfect chocolate semolina cake, excellent warm pie with apples and ice cream, mighty Prekmurje gibanica, dumplings, gnocchi with poppy seeds, cheesecake, and pumpkin tart. In short, this is the place to enjoy Vojvodina cuisine.",
+        "Chef": "Stanislav Mudroh",
+        "Phone": "+381 69 183 5454",
+        "Web site": "https://cafeveliki.com",
+        "Link": "https://rs.gaultmillau.com/en/restaurants/restoran-veliki",
+        "OSM": []
+    },
+    {
+        "Title": "RESTORAN KOD BRKE",
+        "Address": "Futo\u0161ki put 93b, 21000 Novi Sad",
+        "Torques": 1,
+        "Score": "11",
+        "Review": "The pleasant interior of the pub, all in the sign of the mustache, offers an exceptional selection of whiskey and beer for real enjoyment, as well as incredibly large portions of beer food, and meat, meat, and more meat... If this sounds tempting, Kod Brke is the place for you. Portions are designed to feed even the hungriest guest, beware. Appetizers are really tempting. From Negotin bruschetta with rump steak and soft grilled Miro\u010d cheese, to Mexican Taquitos, and pulled pork in a bun or quesadilla, they will prepare you for an excellent meal in a mix of excellent pub food. If you prefer a lighter version, the homemade pasta is of exceptional quality. We recommend you try the silk pasta with turkey, chanterelles, and toasted walnuts. And if you are looking for something specific, then you\u2019ll enjoy the BBQ. From BBQ ribs and smoked pork hock to beef, you won\u2018t go wrong with your choice. A few genuine specialties are available mostly on Wednesdays and be sure to ask the friendly staff for a recommendation. Calf cheeks melt in your mouth and are truly a special treat for slow food lovers, while dry age black angus ribeye or t\u2013bone is the right choice for truly hungry guests. Premium plus burger or chicken wings are an ideal choice that you can pair with an excellent selection of beers. Finally, if you have room for dessert, try mille-feuille with seasonal fruit or Brka\u2018s special variant of Vanilla slice.",
+        "Chef": "Slobodan Mirovi\u0107",
+        "Phone": "+381 21 301 7505",
+        "Web site": "https://kodbrke.rs/",
+        "Link": "https://rs.gaultmillau.com/en/restaurants/restoran-kod-brke",
+        "OSM": [
+            {
+                "place_id": 54894624,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 8655958037,
+                "boundingbox": [
+                    "45.2453463",
+                    "45.2454463",
+                    "19.7991415",
+                    "19.7992415"
+                ],
+                "lat": "45.2453963",
+                "lon": "19.7991915",
+                "display_name": "3bir taproom, 93b, Futoski put, Telep, \u041c\u0417 \u0411\u0440\u0430\u0442\u0441\u0442\u0432\u043e \u0442\u0435\u043b\u0435\u043f, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21000, Serbia",
+                "class": "amenity",
+                "type": "pub",
+                "importance": 0.52001
+            },
+            {
+                "place_id": 54894117,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 8655919727,
+                "boundingbox": [
+                    "45.2452953",
+                    "45.2453953",
+                    "19.7986829",
+                    "19.7987829"
+                ],
+                "lat": "45.2453453",
+                "lon": "19.7987329",
+                "display_name": "Restaurant \"Kod Brke\", 93b, Futoski put, Telep, \u041c\u0417 \u0411\u0440\u0430\u0442\u0441\u0442\u0432\u043e \u0442\u0435\u043b\u0435\u043f, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21000, Serbia",
+                "class": "amenity",
+                "type": "restaurant",
+                "importance": 0.52001
+            },
+            {
+                "place_id": 54901891,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 9999219018,
+                "boundingbox": [
+                    "45.245808",
+                    "45.245908",
+                    "19.8001816",
+                    "19.8002816"
+                ],
+                "lat": "45.245858",
+                "lon": "19.8002316",
+                "display_name": "Loft Factory, 93b, Futoski put, Telep, \u041c\u0417 \u0411\u0440\u0430\u0442\u0441\u0442\u0432\u043e \u0442\u0435\u043b\u0435\u043f, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21000, Serbia",
+                "class": "amenity",
+                "type": "cafe",
+                "importance": 0.52001
+            },
+            {
+                "place_id": 54898083,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 3025257381,
+                "boundingbox": [
+                    "45.2452868",
+                    "45.2453868",
+                    "19.8004319",
+                    "19.8005319"
+                ],
+                "lat": "45.2453368",
+                "lon": "19.8004819",
+                "display_name": "93\u0431, Futoski put, Telep, \u041c\u0417 \u0411\u0440\u0430\u0442\u0441\u0442\u0432\u043e \u0442\u0435\u043b\u0435\u043f, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21000, Serbia",
+                "class": "place",
+                "type": "house",
+                "importance": 0.41000999999999993
+            }
+        ]
+    },
+    {
+        "Title": "KOMBINAT",
+        "Address": "Bulevar Mihajla Pupina 5, 21000 Novi Sad",
+        "Torques": 0,
+        "Score": 0,
+        "Review": "The Kombinat is dedicated to breakfast as the perfect meal to start the working day, so it offers creamy scrambled eggs, lush French toast, and delicious sandwiches. From seven in the morning, they offer already prepared meals, porridges, and pastries to take away. The other sections of the menu also offer a large selection \u2013 the salad meal combines meat, vegetables, nuts, and refreshing dressings, and we recommend seasonal dishes and dishes inspired by international tastes with meat and fish, as well as pasta and vegetarian options. Special attention is paid to avocado, which is creatively combined in dishes and refreshing drinks. In the sweet section, Kombinat offers irresistible combinations of fruit, muesli and yogurt, Viennese strudel, cakes with carrot, apple, or chocolate, as well as fine tarts. The restaurant\u2018s spacious and comfortable garden is perfect for enjoying on nice days.",
+        "Phone": "+381 21 662 2266",
+        "Web site": "https://www.kombinatfood.rs/",
+        "Link": "https://rs.gaultmillau.com/en/restaurants/kombinat",
+        "OSM": [
+            {
+                "place_id": 54866880,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 5502766123,
+                "boundingbox": [
+                    "45.2537308",
+                    "45.2538308",
+                    "19.8459658",
+                    "19.8460658"
+                ],
+                "lat": "45.2537808",
+                "lon": "19.8460158",
+                "display_name": "Kombinat, 5, Bulevar Mihajla Pupina, Stari grad, \u041c\u0417 \u0421\u0442\u0430\u0440\u0438 \u0433\u0440\u0430\u0434, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21000, Serbia",
+                "class": "amenity",
+                "type": "restaurant",
+                "importance": 0.7200099999999999
+            },
+            {
+                "place_id": 54842259,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 2974522182,
+                "boundingbox": [
+                    "45.253713",
+                    "45.253813",
+                    "19.8458567",
+                    "19.8459567"
+                ],
+                "lat": "45.253763",
+                "lon": "19.8459067",
+                "display_name": "5, Bulevar Mihajla Pupina, Stari grad, \u041c\u0417 \u0421\u0442\u0430\u0440\u0438 \u0433\u0440\u0430\u0434, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21000, Serbia",
+                "class": "place",
+                "type": "house",
+                "importance": 0.7200099999999999
+            }
+        ]
+    },
+    {
+        "Title": "JASMIN A MASLINA",
+        "Address": "Maksima Gorkog 17, 21000 Novi Sad",
+        "Torques": 2,
+        "Score": "14",
+        "Review": "Certainly one of the more unusual places in the Novi Sad gastronomic scene is located in an unpretentious residential building. When you ring the bell on the seemingly ordinary door, you will step directly into the kitchen! Already at the door, you are greeted by Jasmina and her lovely and cheerful staff. They accommodate you carefully and at the same time offer an aperitif and then introduce you to the menu for the day. The menu changes frequently, once every two weeks, and each time is conceived as a gastronomic experience from several gangs. Along with the menus, they offer wine pairings that are carefully selected by local and regional winemakers. They sometimes also organize dinners with special wineries and then adjust their menus to the wine offer for that evening. Starting from the choice of plates, the selection and combination of ingredients, as well as the play of different textures, a thoughtful and special gastronomic experience awaits you. In our case, we were greeted by brie Bayad\u00e8re sprinkled with salty and crunchy caramelized nuts and served with green apple and celery sorbet, which thoughtfully introduced freshness into every bite. Spinach semolina cake with almonds and sun\u2013dried tomatoes served on buttermilk, which adds a creamy texture to every bite. Additional flavor is provided by strips of fermented red pepper covering the cake. The final dish was pork belly, well cooked and served with horseradish and rosemary cream with sauerkraut and fennel salad. The menus change often, but the effort and skill remain at the same level.",
+        "Chef": "Jasmina Vuka\u0161inovi\u0107 Tubi\u0107",
+        "Phone": "+381 (0) 6 346 0267",
+        "Link": "https://rs.gaultmillau.com/en/restaurants/jasmin-a-maslina",
+        "OSM": [
+            {
+                "place_id": 54864366,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 4736458266,
+                "boundingbox": [
+                    "45.2502968",
+                    "45.2503968",
+                    "19.8475005",
+                    "19.8476005"
+                ],
+                "lat": "45.2503468",
+                "lon": "19.8475505",
+                "display_name": "Stev\u010da Soul Food, 17a, Maksima Gorkog, Stari grad, \u041c\u0417 \u041f\u0440\u0432\u0430 \u0432\u043e\u0458\u0432\u043e\u0452\u0430\u043d\u0441\u043a\u0430 \u0431\u0440\u0438\u0433\u0430\u0434\u0430, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21000, Serbia",
+                "class": "amenity",
+                "type": "restaurant",
+                "importance": 0.6100099999999999
+            }
+        ]
+    },
+    {
+        "Title": "LE KLOK BISTRO",
+        "Address": "Prote Mihald\u017ei\u0107a 6, 21131 Novi Sad - Petrovaradin",
+        "Torques": 2,
+        "Score": "13.5",
+        "Review": "Le Klok has refreshed Novi Sad\u2018s offer with an authentic bistro concept that focuses on basic French cuisine with the occasional excursion into Italian ideas, but the real question is \u2013 how? The feeling we got is \u2013 very personal, and with a great passion for food, and for quality ingredients, following their origin as well as the idea \u2013 we do it ourselves. Homemade bread in their version is an excellent start with quality olive oil and balsamic vinegar. It\u2018s always good to start with a dip! They obviously pay a lot of attention to the dishes they prepare, both in their development and in their conceiving and preparation. With each dish, you will hear a short narrative explaining why what you are eating is special, and how much effort was put into it to get to the plate. Such stories are always useful, because they round off nicely the experience, and they direct the guest\u2018s attention to the food. Onion soup served French style with melting baked cheese, this time it was combined with blue cheese and cognac. There is also a twice\u2013 baked cheese souffle that captivates with French decadence and is extremely elegant in taste. The menu includes a wide range of meat and fish specialties. With a good wine list, a nice selection of wines by the glass, a pleasant atmosphere, and exceptional service, Le Klok has fully justified its attraction to the public.",
+        "Chef": "Ognjen Majdand\u017ei\u0107",
+        "Phone": "+381 64 886 7667",
+        "Link": "https://rs.gaultmillau.com/en/restaurants/le-klok-bistro",
+        "OSM": [
+            {
+                "place_id": 54826222,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 597350147,
+                "boundingbox": [
+                    "45.255328",
+                    "45.255514",
+                    "19.8618753",
+                    "19.8620992"
+                ],
+                "lat": "45.2554049",
+                "lon": "19.86198113699907",
+                "display_name": "6, Prote Mihaldzica, \u041c\u0417 \u041f\u0435\u0442\u0440\u043e\u0432\u0430\u0440\u0430\u0434\u0438\u043d, Petrovaradin, City of Novi Sad, South Backa Administrative District, Vojvodina, 21000, Serbia",
+                "class": "building",
+                "type": "house",
+                "importance": 0.5200099999999999
+            }
+        ]
+    },
+    {
+        "Title": "COMIDA SANCHEZ",
+        "Address": "Jovana Cviji\u0107a 25a, 21000 Novi Sad",
+        "Torques": 0,
+        "Score": 0,
+        "Review": "Comida Sanchez has won the hearts of Mexican street food lovers. The place is of the hole-in-the-wall type and reminds of some of the best experiences we\u2018ve had with this type of street food. Long cooking and marinating, lots of fresh herbs, homemade tortillas and accompanying sauces come together effectively in a menu that you will enjoy. There are, for us, favorites, birria tacos with slow-cooked beef, grilled with cheese, as well as versions with pork and chicken. Chimichangas, quesadillas, Brazilian meatballs paired with a dozen homemade salsas will delight any foodie. For a sweet ending, there\u2018s Peruvian citrus cake or tortilla chips with Mexican cherry sauce.",
+        "Closing days": "Monday",
+        "Web site": "https://www.comidasanchez.com/en/",
+        "Link": "https://rs.gaultmillau.com/en/restaurants/comida-sanchez",
+        "OSM": [
+            {
+                "place_id": 353516110,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 11925711823,
+                "boundingbox": [
+                    "45.264536",
+                    "45.264636",
+                    "19.840381",
+                    "19.840481"
+                ],
+                "lat": "45.264586",
+                "lon": "19.840431",
+                "display_name": "25a, Jovana Cvijica, Salajka, \u041c\u0417 \u0421\u0430\u043b\u0430\u0458\u043a\u0430, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21101, Serbia",
+                "class": "place",
+                "type": "house",
+                "importance": 0.41000999999999993
+            }
+        ]
+    },
+    {
+        "Title": "THE CAMELOT - GASTRO PUB",
+        "Address": "Sremska 9, 21000 Novi Sad",
+        "Torques": 0,
+        "Score": 0,
+        "Review": "The Camelot gastro\u2013bar exudes a relaxed atmosphere but takes its food and home\u2013made craft beer seriously. The interior is inspired by knights and the legends of Camelot, from wooden tables to plates shaped like knights\u2018 shields. The menu is dominated by excellent meat, but pasta and salad meals are also on offer. In the first part of the day, fried pancakes, a meal of salads, sandwiches and eggs are popular, and lunch is a real knightly celebration. Ribs in beer covered with honey and served with homemade potatoes and sauerkraut are the star of the menu. Pork medallions in sour cherry or mushroom sauce, pork shins and chicken in various variations satisfy the diverse tastes of guests. Pancakes with coffee are a nice, sweet ending to this pleasant gastronomic journey.",
+        "Phone": "+381 (0) 2 152 8095",
+        "Web site": "https://thecamelot.rs",
+        "Link": "https://rs.gaultmillau.com/en/restaurants/the-camelot",
+        "OSM": [
+            {
+                "place_id": 54893293,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 221662116,
+                "boundingbox": [
+                    "45.2490007",
+                    "45.2491942",
+                    "19.8427107",
+                    "19.8430476"
+                ],
+                "lat": "45.24907695",
+                "lon": "19.842889114890433",
+                "display_name": "9, \u0421\u0440\u0435\u043c\u0441\u043a\u0430, Stari grad, \u041c\u0417 \u041f\u0440\u0432\u0430 \u0432\u043e\u0458\u0432\u043e\u0452\u0430\u043d\u0441\u043a\u0430 \u0431\u0440\u0438\u0433\u0430\u0434\u0430, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21000, Serbia",
+                "class": "building",
+                "type": "yes",
+                "importance": 0.42001
+            }
+        ]
+    },
+    {
+        "Title": "ANANDA VEGAN RESTAURANT",
+        "Address": "Petra Drap\u0161ina 51, 21000 Novi Sad",
+        "Torques": 0,
+        "Score": 0,
+        "Review": "Restaurant Ananda was started out of sincere love and dedication to preparing the highest quality vegan meals. The offer, which is regularly updated, includes soups made from seasonal vegetables, cooked dishes with beans, peas, or lentils, balls made from pepitas or from red cabbage, pasta, and various types of potatoes and stews. All this is accompanied by integral homemade bread and fresh salads. The restaurant also offers a la carte dishes \u2013 fried vegetables, falafel, and a red lentil burger are some of the favorites on the menu. Ananda prepares pastries, popular deep\u2013dish pizza with tofu, sandwiches, and a variety of pies every day. The sweets are without added sugar, and the apple pie, with a cup of tea, is the ideal end to the meal.",
+        "Closing days": "Sunday",
+        "Phone": "+381 63 108 8978",
+        "Web site": "https://www.ananda.rs",
+        "Link": "https://rs.gaultmillau.com/en/restaurants/ananda-vegan-restaurant",
+        "OSM": [
+            {
+                "place_id": 54881260,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 3118845528,
+                "boundingbox": [
+                    "45.249227",
+                    "45.249327",
+                    "19.8394858",
+                    "19.8395858"
+                ],
+                "lat": "45.249277",
+                "lon": "19.8395358",
+                "display_name": "Ananda vegan restaurant, 51, Petra Drapsina, Stari grad, \u041c\u0417 \u041f\u0440\u0432\u0430 \u0432\u043e\u0458\u0432\u043e\u0452\u0430\u043d\u0441\u043a\u0430 \u0431\u0440\u0438\u0433\u0430\u0434\u0430, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21000, Serbia",
+                "class": "amenity",
+                "type": "restaurant",
+                "importance": 0.52001
+            }
+        ]
+    },
+    {
+        "Title": "TIJA PASTRY SHOP",
+        "Address": "Bulevar Mihajla Pupina 9, 21000 Novi Sad",
+        "Torques": 0,
+        "Score": 0,
+        "Review": "Pastry shop Tija is a place where you can have a cup of coffee, a glass of juice, or start the day with a savory croissant while enjoying creamy cakes. However, the sophisticated range of cakes dominates. The names of the cakes are clearly inspired by famous artists, so you can indulge yourself with Kandinsky with raspberries, Picasso with passion fruit, Van Gogh with pistachio and apricot, Frida Kahlo with vanilla and strawberry, and the most popular is the Caravaggio cake with three types of Belgian chocolate on a chocolate brownie, with the addition of almond crumble. Tija follows the rhythm of the seasons and holidays, and their offer changes to reflect the aesthetics and the spirit of each special occasion and season. This pastry shop is a sweet, peaceful oasis to enjoy desserts and coffee.",
+        "Phone": "+381 66 630 0001",
+        "Web site": "https://tijapastryshop.com",
+        "Link": "https://rs.gaultmillau.com/en/restaurants/tija-pastry-shop",
+        "OSM": [
+            {
+                "place_id": 54855422,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 2996605388,
+                "boundingbox": [
+                    "45.253982",
+                    "45.254082",
+                    "19.8486539",
+                    "19.8487539"
+                ],
+                "lat": "45.254032",
+                "lon": "19.8487039",
+                "display_name": "9, Bulevar Mihajla Pupina, Stari grad, \u041c\u0417 \u0421\u0442\u0430\u0440\u0438 \u0433\u0440\u0430\u0434, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21101, Serbia",
+                "class": "place",
+                "type": "house",
+                "importance": 0.6100099999999999
+            }
+        ]
+    },
+    {
+        "Title": "KORPA DELI MARKET I BISTRO",
+        "Address": "Veselina Masle\u0161e 2, 21000 Novi Sad",
+        "Torques": 1,
+        "Score": "12",
+        "Review": "A modern restaurant focused on meat specialties and next to a well- supplied delicatessen store. The wine list is short, but wines from the store are available with a service charge. The menu opens with a selection of hand\u2013sliced delicacies, followed by dry age tartare, tataki, carpaccio, and burrata. An interesting selection of appetizers follows, we chose rolls filled with pork ham, beets with young cheese, apple gel and sprinkled with hazelnuts. The pasta and risotto section varies familiar themes, and the simple spaghetti aglio e olio was tasty and spicy. In the meat section, they have turkey with mlinci, duck breast and veal fillet in cognac and pine nut sauce, and for serious gourmets, we recommend the burger for two with kajmak from Stara Planina and pickled onions. There are also burgers, and a powerful selection of Serbian dry aged meats. For those who prefer fish, the choice is tuna, sea bass, sea bream and salmon fillets, as well as grilled squid. From the Deli menu section, we recommend the juicy and tender rolled rib, served on pumpkin puree with homemade demiglace sauce and parsnip chips, as well as the boldly spiced kebab, served with seriously spicy peppers and sour cream with mint, on homemade pita bread. Floating island with almond flakes, delicious warm cake with poppy seeds in white chocolate sauce, along with baklava with pistachios, seasonal crumble, and chocolate souffle will sweetly round off your stay.",
+        "Chef": "Neboj\u0161a Muki\u0107",
+        "Phone": "+381 21 210 2523",
+        "Web site": "https://korpa-deli.rs",
+        "Link": "https://rs.gaultmillau.com/en/restaurants/korpa-bistro",
+        "OSM": [
+            {
+                "place_id": 54861903,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 292305543,
+                "boundingbox": [
+                    "45.2531537",
+                    "45.2534723",
+                    "19.8141171",
+                    "19.8144712"
+                ],
+                "lat": "45.25327005",
+                "lon": "19.814331379003224",
+                "display_name": "2, Veselina Maslese, \u041d\u043e\u0432\u0430 \u0414\u0435\u0442\u0435\u043b\u0438\u043d\u0430\u0440\u0430, Detelinara, \u041c\u0417 \u0414\u0435\u0442\u0435\u043b\u0438\u043d\u0430\u0440\u0430, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21137, Serbia",
+                "class": "building",
+                "type": "apartments",
+                "importance": 0.41000999999999993
+            }
+        ]
+    },
+    {
+        "Title": "KONOBA RIBA RIBI GRIZE REP",
+        "Address": "Bulevar cara Lazara 46, 21000 Novi Sad",
+        "Torques": 2,
+        "Score": "13.5",
+        "Review": "With its nautical design and original name, this restaurant takes you from the former Pannonian Sea to the shores of the Mediterranean with exciting tastes from the sea, with a few excursions to the land. We recommend white cod spread on bruschetta, with a few drops of olive oil, followed by a clear sea soup. Njegu\u0161 prosciutto is sliced in the middle of the tavern, there is Slavonian kulen and grilled goat cheese, and scallops and anchovies from the sea. The friendly staff will recommend the best of the offer and expertly clean and fillet the fish in front of you. The wine list, with a large selection of wines by the glass, provides an adequate accompaniment to local delicacies. Expertly prepared and perfectly tasty octopus and prawns are prepared on the grill. Among the fish on offer, turbot with a delicately sweet taste stands out, followed by sea bream and sea bass, common dentex, and John Dory, and along with them, brodetto for two, Patagonian squid, and tuna steak. The mighty, creamy, sumptuous, and brilliant, black risotto deserves special praise, and the risotto with cold tuna tartare and polenta with truffles in a crispy parmesan basket invites further exploration of this part of the menu. A selection of aged meat arrives from the mainland, including tender dry aged ram steak, and surf & turf steak with prawns, while the house specialty cake brings a fine symphony of chocolate aromas. A very tasty and very appealing piece of sea in the plain of Vojvodina.",
+        "Chef": "Ivan Plavki\u0107",
+        "Phone": "+381 21 644 2922",
+        "Web site": "https://www.rrgr.rs/",
+        "Link": "https://rs.gaultmillau.com/en/restaurants/konoba-riba-ribi-grize-rep",
+        "OSM": [
+            {
+                "place_id": 54892645,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 9942748019,
+                "boundingbox": [
+                    "45.2479562",
+                    "45.2480562",
+                    "19.8486667",
+                    "19.8487667"
+                ],
+                "lat": "45.2480062",
+                "lon": "19.8487167",
+                "display_name": "Riba Ribi Grize Rep, 46, Bulevar Cara Lazara, \u041c\u0417 \u041b\u0438\u043c\u0430\u043d, Liman, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21101, Serbia",
+                "class": "amenity",
+                "type": "restaurant",
+                "importance": 0.6100099999999999
+            },
+            {
+                "place_id": 54892676,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 2989202654,
+                "boundingbox": [
+                    "45.2479537",
+                    "45.2480537",
+                    "19.8486715",
+                    "19.8487715"
+                ],
+                "lat": "45.2480037",
+                "lon": "19.8487215",
+                "display_name": "46, Bulevar Cara Lazara, \u041c\u0417 \u041b\u0438\u043c\u0430\u043d, Liman, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21101, Serbia",
+                "class": "place",
+                "type": "house",
+                "importance": 0.6100099999999999
+            },
+            {
+                "place_id": 54855612,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 696525991,
+                "boundingbox": [
+                    "45.2449699",
+                    "45.2452975",
+                    "19.8457314",
+                    "19.8468431"
+                ],
+                "lat": "45.2451166",
+                "lon": "19.8463412",
+                "display_name": "\u0411\u0443\u043b\u0435\u0432\u0430\u0440 \u0426\u0430\u0440\u0430 \u041b\u0430\u0437\u0430\u0440\u0430, \u041c\u0417 \u0411\u043e\u0448\u043a\u043e \u0411\u0443\u0445\u0430, Liman, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21000, Serbia",
+                "class": "highway",
+                "type": "secondary",
+                "importance": 0.41001
+            }
+        ]
+    },
+    {
+        "Title": "BISTRO POSLASTI\u010cARNICA VREMEPLOV",
+        "Address": "Bulevar oslobo\u0111enja 96, 21000 Novi Sad",
+        "Torques": 0,
+        "Score": 0,
+        "Review": "The offer of this famous pastry shop in Novi Sad is now enriched with a daily offer of savoury snacks. Vremeplov offers a variety of bistro\u2013 style meals, perfect for breakfast, snack, or brunch. The breakfast selection includes eggs in different variations, combinations with avocado, and chia, oat, or granola porridges with refreshing fruit. Everything is prepared with attention to detail and everything is very photogenic. Sandwiches and salad meals are a great combination of textures, spreads, fresh vegetables, and herbs. While the bistro offering has brought an interesting change, the sweet section has remained unsurpassed. The queen among cakes is the author\u2018s cake by Mira Banjac, a masterpiece that combines Belgian dark chocolate and Cointreau liqueur in a unique decadence.",
+        "Phone": "+381 (0) 6 351 7502",
+        "Web site": "https://vremeplov.net/",
+        "Link": "https://rs.gaultmillau.com/en/restaurants/vremeplov",
+        "OSM": [
+            {
+                "place_id": 54889432,
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 2985771238,
+                "boundingbox": [
+                    "45.2458248",
+                    "45.2459248",
+                    "19.839778",
+                    "19.839878"
+                ],
+                "lat": "45.2458748",
+                "lon": "19.839828",
+                "display_name": "96, Bulevar oslobodjenja, Grbavica, \u041c\u0417 \u041f\u0440\u0432\u0430 \u0432\u043e\u0458\u0432\u043e\u0452\u0430\u043d\u0441\u043a\u0430 \u0431\u0440\u0438\u0433\u0430\u0434\u0430, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21101, Serbia",
+                "class": "place",
+                "type": "house",
+                "importance": 0.41000999999999993
+            }
+        ]
+    }
+]
