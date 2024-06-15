@@ -57,3 +57,7 @@ To open in Organic Map or ANY suitable for KML format from mobile just click on 
 8. Correct some
 9. Creade GPKG file (two versions: plain text and HTML-able)
 10. Upload to suitable app to check
+
+# Read Next
+
+[The map of Michelin in Belgrade](https://www.google.com/maps/d/edit?mid=1XRS97kY_y-CPb49jsHTl5hwT_ey_C94&usp=sharing) as part of my "[where to eat and drink](https://docs.google.com/spreadsheets/d/1t_3RsxL-eRH5kTqMl_QjdIJJrjZJaE6oCikJun-_h7U/edit?usp=sharing)" project
