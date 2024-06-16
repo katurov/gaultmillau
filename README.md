@@ -19,6 +19,7 @@ Hard way: download file and put into your desired application
 ## Files
 | File | City | Format | Where to use |
 | ---- | ---- | ------ | ------------ |
+| [Gault & Millau in Serbia (SRB).kml](https://raw.githubusercontent.com/katurov/gaultmillau/main/Gault%20%26%20Millau%20in%20Serbia%20(SRB).kml) | Serbia | KML | [Organic Maps](https://github.com/organicmaps/organicmaps) |
 | Gault & Millau in Beograd.gpkg | Belgrade | GPKG | QGIS |
 | Gault & Millau in Beograd - Google.kml | Belgrade | KML with HTML | Google Maps |
 | [Gault & Millau in Beograd - OSM.kml](https://github.com/katurov/gaultmillau/blob/main/Gault%20%26%20Millau%20in%20Beograd%20-%20OSM.kml) | Belgrade | KML | [Organic Maps](https://github.com/organicmaps/organicmaps) |
