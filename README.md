@@ -81,3 +81,5 @@ To open in Organic Map or ANY suitable for KML format from mobile just click on 
 [The map of Michelin in Belgrade](https://www.google.com/maps/d/edit?mid=1XRS97kY_y-CPb49jsHTl5hwT_ey_C94&usp=sharing) as part of my "[where to eat and drink](https://docs.google.com/spreadsheets/d/1t_3RsxL-eRH5kTqMl_QjdIJJrjZJaE6oCikJun-_h7U/edit?usp=sharing)" project.
 
 [Really cool](https://www.facebook.com/nepusackilokaliubeogradu/) group on Facebook for years supports a [Map of non-smoking restaurants and caffee in Belgrade](https://www.google.com/maps/d/viewer?mid=1qkPRUNRiCqA-uFugbcuVy9INXgw&shorturl=1&ll=44.81601345502995%2C20.4492096243896&z=12). Wish someone will make a global Map.
+
+The Best Chef [Top100 The Best Pizza 2024](https://thebestchefawards.com/top100-the-best-pizza-2024/) placed Serbian chef Dejan Parun from ["Tramontana", Novi Sad](https://maps.app.goo.gl/eSzVZFvWYKG5Ej1K7) to number 94 in list.
